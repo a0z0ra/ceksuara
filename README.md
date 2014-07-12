@@ -3,8 +3,12 @@ ceksuara
 
 cek suara pemilu 2014
 
-Provinsi -> kabupaten/kota -> kecamatan -> kelurahan/desa
-
+Provinsi -> kabupaten/kota -> kecamatan -> kelurahan/desa -> TPS
+Jumlah provinsi: 33
+Jumlah kabupaten/kota: 497
+Jumlah kecamatan: 6.995
+Jumlah kelurahan/desa: 80.493
+Jumlah TPS: 1.326.108
 
 URL gambar:
 http://scanc1.kpu.go.id/viewp.php?f=005177200704.jpg
@@ -17,3 +21,8 @@ Halaman untuk discrape:
 http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=2
 
 Ganti parent id jadi kalau provinsi jakarta, parentId = 25823 dan url jadi: http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=25823
+
+TODO LIST:
+1) Gather all TPS id data berdasarkan kelurahan to csv (tps id, kelurahan id)
+2) Allow people to upload Catatan hasil penghitungan suara dari TPS
+2) Allow people to
