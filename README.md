@@ -8,7 +8,7 @@ Jumlah provinsi: 33
 Jumlah kabupaten/kota: 497
 Jumlah kecamatan: 6.995
 Jumlah kelurahan/desa: 80.493
-Jumlah TPS: 1.326.108
+Jumlah TPS: 478.828
 
 URL gambar:
 http://scanc1.kpu.go.id/viewp.php?f=005177200704.jpg
