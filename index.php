@@ -3,8 +3,9 @@
 		case "-lineno":
 			if( $argv[2] ){
 				$CURRENT = $argv[2];
+				$MAX_LINENO = $argv[3];
 			} else {
-				echo "Incomplete param.  Do php index.php -lineno <line nomer dari KELURAHAN_ID.csv>\n";
+				echo "Incomplete param.  Do php index.php -lineno <line nomer dari KELURAHAN_ID.csv> <optional:max lineid>\n";
 				exit();
 			}
 			break;
@@ -21,7 +22,7 @@
 			$child = popen('php child.php -id '.$kelurahan_id, 'r');
 			$response = stream_get_contents($child);
 			echo $response;
-			if(preg_match("/Incomplete param/", $response)) return FALSE;
+			if(preg_match("/Incomplete param/", $response) || $CURRENT >= $MAX_LINENO ) return FALSE;
 			$CURRENT++;
 		}
 	} catch (Exception $e) {

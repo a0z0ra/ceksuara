@@ -23,6 +23,5 @@ http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=2
 Ganti parent id jadi kalau provinsi jakarta, parentId = 25823 dan url jadi: http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=25823
 
 TODO LIST:
-1) Gather all TPS id data berdasarkan kelurahan to csv (tps id, kelurahan id)
-2) Allow people to upload Catatan hasil penghitungan suara dari TPS
-3) Allow people to simply check two images: one from uploaded image and the other from kpu
+*) Allow people to upload Catatan hasil penghitungan suara dari TPS
+*) Allow people to simply check two images: one from uploaded image and the other from kpu

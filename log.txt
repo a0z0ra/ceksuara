@@ -1,0 +1,5701 @@
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=28
+tps/ACEH.csv >>
+28,1,1684860
+28,2,1689067
+ALL GOOD, MARKING 28 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=30
+tps/ACEH.csv >>
+30,1,1689245
+30,2,1689246
+30,3,1689247
+ALL GOOD, MARKING 30 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=31
+tps/ACEH.csv >>
+31,1,1689324
+31,2,1689325
+ALL GOOD, MARKING 31 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=32
+tps/ACEH.csv >>
+32,1,1689260
+ALL GOOD, MARKING 32 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=33
+tps/ACEH.csv >>
+33,1,1689262
+ALL GOOD, MARKING 33 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=34
+tps/ACEH.csv >>
+34,1,1689277
+ALL GOOD, MARKING 34 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=35
+tps/ACEH.csv >>
+35,1,1689286
+ALL GOOD, MARKING 35 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=36
+tps/ACEH.csv >>
+36,1,1689587
+36,2,1689588
+36,3,1689589
+36,4,1689595
+ALL GOOD, MARKING 36 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=37
+tps/ACEH.csv >>
+37,1,1689315
+ALL GOOD, MARKING 37 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=38
+tps/ACEH.csv >>
+38,1,1689314
+ALL GOOD, MARKING 38 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=39
+tps/ACEH.csv >>
+39,1,1689311
+ALL GOOD, MARKING 39 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=40
+tps/ACEH.csv >>
+40,1,1689295
+ALL GOOD, MARKING 40 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=41
+tps/ACEH.csv >>
+41,1,1689300
+ALL GOOD, MARKING 41 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=42
+tps/ACEH.csv >>
+42,1,1689329
+ALL GOOD, MARKING 42 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=43
+tps/ACEH.csv >>
+43,1,1748637
+43,2,1748638
+43,3,1748639
+ALL GOOD, MARKING 43 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=44
+tps/ACEH.csv >>
+44,1,1689195
+44,2,1689196
+ALL GOOD, MARKING 44 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=45
+tps/ACEH.csv >>
+45,1,1689199
+ALL GOOD, MARKING 45 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=46
+tps/ACEH.csv >>
+46,1,1689210
+46,2,1689211
+46,3,1689212
+ALL GOOD, MARKING 46 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=48
+tps/ACEH.csv >>
+48,1,1684152
+48,2,1684204
+ALL GOOD, MARKING 48 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=49
+tps/ACEH.csv >>
+49,1,1684223
+49,2,1684225
+ALL GOOD, MARKING 49 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=50
+tps/ACEH.csv >>
+50,1,1686077
+50,2,1686078
+50,3,1686079
+ALL GOOD, MARKING 50 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=51
+tps/ACEH.csv >>
+51,1,1686164
+51,2,1686166
+ALL GOOD, MARKING 51 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=52
+tps/ACEH.csv >>
+52,1,1686204
+52,2,1686205
+ALL GOOD, MARKING 52 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=53
+tps/ACEH.csv >>
+53,1,1686262
+53,2,1686263
+ALL GOOD, MARKING 53 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=54
+tps/ACEH.csv >>
+54,1,1686271
+54,2,1686273
+54,3,1686274
+ALL GOOD, MARKING 54 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=55
+tps/ACEH.csv >>
+55,1,1686584
+ALL GOOD, MARKING 55 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=56
+tps/ACEH.csv >>
+56,1,1686577
+ALL GOOD, MARKING 56 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=57
+tps/ACEH.csv >>
+57,1,1686301
+57,2,1686302
+ALL GOOD, MARKING 57 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=58
+tps/ACEH.csv >>
+58,1,1686587
+ALL GOOD, MARKING 58 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=59
+tps/ACEH.csv >>
+59,1,1686588
+59,2,1686590
+59,3,1686592
+ALL GOOD, MARKING 59 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=60
+tps/ACEH.csv >>
+60,1,1686621
+60,2,1686622
+60,3,1686623
+ALL GOOD, MARKING 60 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=61
+tps/ACEH.csv >>
+61,1,1686658
+61,2,1686659
+61,3,1686660
+ALL GOOD, MARKING 61 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=62
+tps/ACEH.csv >>
+62,1,1686685
+ALL GOOD, MARKING 62 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=63
+tps/ACEH.csv >>
+63,1,1686637
+ALL GOOD, MARKING 63 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=65
+tps/ACEH.csv >>
+65,1,1687125
+65,2,1687126
+ALL GOOD, MARKING 65 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=66
+tps/ACEH.csv >>
+66,1,1687129
+66,2,1687130
+66,3,1687131
+ALL GOOD, MARKING 66 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=67
+tps/ACEH.csv >>
+67,1,1688631
+67,2,1688632
+67,3,1688633
+ALL GOOD, MARKING 67 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=68
+tps/ACEH.csv >>
+68,1,1688637
+ALL GOOD, MARKING 68 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=69
+tps/ACEH.csv >>
+69,1,1688652
+69,2,1688653
+69,3,1688654
+ALL GOOD, MARKING 69 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=70
+tps/ACEH.csv >>
+70,1,1688658
+ALL GOOD, MARKING 70 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=71
+tps/ACEH.csv >>
+71,1,1688703
+71,2,1688704
+ALL GOOD, MARKING 71 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=72
+tps/ACEH.csv >>
+72,1,1688710
+72,2,1688711
+ALL GOOD, MARKING 72 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=73
+tps/ACEH.csv >>
+73,1,1688666
+ALL GOOD, MARKING 73 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=74
+tps/ACEH.csv >>
+74,1,1688719
+ALL GOOD, MARKING 74 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=75
+tps/ACEH.csv >>
+75,1,1688722
+ALL GOOD, MARKING 75 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=76
+tps/ACEH.csv >>
+76,1,1687058
+76,2,1687059
+ALL GOOD, MARKING 76 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=77
+tps/ACEH.csv >>
+77,1,1687071
+ALL GOOD, MARKING 77 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=78
+tps/ACEH.csv >>
+78,1,1687063
+78,2,1687064
+78,3,1687065
+ALL GOOD, MARKING 78 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=79
+tps/ACEH.csv >>
+79,1,1687083
+ALL GOOD, MARKING 79 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=80
+tps/ACEH.csv >>
+80,1,1687016
+80,2,1687017
+ALL GOOD, MARKING 80 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=81
+tps/ACEH.csv >>
+81,1,1686999
+ALL GOOD, MARKING 81 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=82
+tps/ACEH.csv >>
+82,1,1687011
+82,2,1687012
+ALL GOOD, MARKING 82 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=83
+tps/ACEH.csv >>
+83,1,1686947
+83,2,1686949
+83,3,1686950
+83,4,1686951
+83,5,1686982
+ALL GOOD, MARKING 83 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=84
+tps/ACEH.csv >>
+84,1,1686889
+84,2,1686890
+ALL GOOD, MARKING 84 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=85
+tps/ACEH.csv >>
+85,1,1686888
+ALL GOOD, MARKING 85 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=86
+tps/ACEH.csv >>
+86,1,1686909
+ALL GOOD, MARKING 86 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=88
+tps/ACEH.csv >>
+88,1,1690899
+ALL GOOD, MARKING 88 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=89
+tps/ACEH.csv >>
+89,1,1691033
+ALL GOOD, MARKING 89 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=90
+tps/ACEH.csv >>
+90,1,1690878
+ALL GOOD, MARKING 90 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=91
+tps/ACEH.csv >>
+91,1,1690951
+ALL GOOD, MARKING 91 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=92
+tps/ACEH.csv >>
+92,1,1690838
+ALL GOOD, MARKING 92 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=93
+tps/ACEH.csv >>
+93,1,1691340
+ALL GOOD, MARKING 93 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=94
+tps/ACEH.csv >>
+94,1,1691427
+ALL GOOD, MARKING 94 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=95
+tps/ACEH.csv >>
+95,1,1691447
+ALL GOOD, MARKING 95 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=96
+tps/ACEH.csv >>
+96,1,1690397
+ALL GOOD, MARKING 96 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=97
+tps/ACEH.csv >>
+97,1,1690408
+97,2,1690409
+ALL GOOD, MARKING 97 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=98
+tps/ACEH.csv >>
+98,1,1690376
+98,2,1690377
+98,3,1691432
+ALL GOOD, MARKING 98 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=99
+tps/ACEH.csv >>
+99,1,1690354
+ALL GOOD, MARKING 99 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=100
+tps/ACEH.csv >>
+100,1,1691170
+100,2,1691172
+ALL GOOD, MARKING 100 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=101
+tps/ACEH.csv >>
+101,1,1691103
+ALL GOOD, MARKING 101 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=102
+tps/ACEH.csv >>
+102,1,1691043
+102,2,1691045
+ALL GOOD, MARKING 102 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=103
+tps/ACEH.csv >>
+103,1,1691075
+ALL GOOD, MARKING 103 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=104
+tps/ACEH.csv >>
+104,1,1691305
+ALL GOOD, MARKING 104 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=105
+tps/ACEH.csv >>
+105,1,1691203
+ALL GOOD, MARKING 105 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=106
+tps/ACEH.csv >>
+106,1,1691068
+ALL GOOD, MARKING 106 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=107
+tps/ACEH.csv >>
+107,1,1691254
+107,2,1691257
+ALL GOOD, MARKING 107 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=108
+tps/ACEH.csv >>
+108,1,1690467
+ALL GOOD, MARKING 108 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=109
+tps/ACEH.csv >>
+109,1,1690477
+109,2,1690478
+ALL GOOD, MARKING 109 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=110
+tps/ACEH.csv >>
+110,1,1690417
+ALL GOOD, MARKING 110 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=111
+tps/ACEH.csv >>
+111,1,1691411
+111,2,1691413
+ALL GOOD, MARKING 111 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=112
+tps/ACEH.csv >>
+112,1,1691433
+ALL GOOD, MARKING 112 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=113
+tps/ACEH.csv >>
+113,1,1690598
+ALL GOOD, MARKING 113 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=114
+tps/ACEH.csv >>
+114,1,1690487
+ALL GOOD, MARKING 114 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=115
+tps/ACEH.csv >>
+115,1,1691294
+115,2,1691297
+ALL GOOD, MARKING 115 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=117
+tps/ACEH.csv >>
+117,1,1688910
+ALL GOOD, MARKING 117 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=118
+tps/ACEH.csv >>
+118,1,1688892
+118,2,1688894
+ALL GOOD, MARKING 118 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=119
+tps/ACEH.csv >>
+119,1,1688905
+119,2,1688907
+ALL GOOD, MARKING 119 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=120
+tps/ACEH.csv >>
+120,1,1688770
+120,2,1688771
+120,3,1688775
+ALL GOOD, MARKING 120 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=121
+tps/ACEH.csv >>
+121,1,1688854
+ALL GOOD, MARKING 121 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=122
+tps/ACEH.csv >>
+122,1,1688778
+122,2,1688779
+ALL GOOD, MARKING 122 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=123
+tps/ACEH.csv >>
+123,1,1688919
+123,2,1688920
+ALL GOOD, MARKING 123 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=124
+tps/ACEH.csv >>
+124,1,1688954
+124,2,1688955
+ALL GOOD, MARKING 124 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=125
+tps/ACEH.csv >>
+125,1,1688967
+125,2,1688968
+ALL GOOD, MARKING 125 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=126
+tps/ACEH.csv >>
+126,1,1689132
+126,2,1689133
+ALL GOOD, MARKING 126 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=127
+tps/ACEH.csv >>
+127,1,1689070
+ALL GOOD, MARKING 127 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=128
+tps/ACEH.csv >>
+128,1,1689000
+128,2,1689005
+ALL GOOD, MARKING 128 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=129
+tps/ACEH.csv >>
+129,1,1689097
+129,2,1689098
+ALL GOOD, MARKING 129 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=130
+tps/ACEH.csv >>
+130,1,1689074
+130,2,1689075
+ALL GOOD, MARKING 130 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=131
+tps/ACEH.csv >>
+131,1,1689087
+131,2,1689088
+ALL GOOD, MARKING 131 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=133
+tps/ACEH.csv >>
+133,1,1687647
+133,2,1687648
+133,3,1687649
+ALL GOOD, MARKING 133 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=134
+tps/ACEH.csv >>
+134,1,1687085
+134,2,1687086
+134,3,1687087
+134,4,1687088
+ALL GOOD, MARKING 134 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=135
+tps/ACEH.csv >>
+135,1,1687572
+135,2,1687573
+ALL GOOD, MARKING 135 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=136
+tps/ACEH.csv >>
+136,1,1687437
+136,2,1687439
+ALL GOOD, MARKING 136 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=137
+tps/ACEH.csv >>
+137,1,1687486
+137,2,1687487
+137,3,1687488
+ALL GOOD, MARKING 137 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=138
+tps/ACEH.csv >>
+138,1,1687615
+ALL GOOD, MARKING 138 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=139
+tps/ACEH.csv >>
+139,1,1687539
+139,2,1687541
+139,3,1687559
+ALL GOOD, MARKING 139 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=140
+tps/ACEH.csv >>
+140,1,1688608
+140,2,1688610
+140,3,1688611
+140,4,1688613
+140,5,1688614
+140,6,1688615
+140,7,1688617
+140,8,1688618
+140,9,1688619
+ALL GOOD, MARKING 140 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=141
+tps/ACEH.csv >>
+141,1,1687503
+ALL GOOD, MARKING 141 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=142
+tps/ACEH.csv >>
+142,1,1687066
+142,2,1687067
+ALL GOOD, MARKING 142 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=143
+tps/ACEH.csv >>
+143,1,1687659
+143,2,1687662
+143,3,1687665
+ALL GOOD, MARKING 143 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=144
+tps/ACEH.csv >>
+144,1,1687053
+144,2,1687054
+144,3,1687055
+144,4,1687056
+ALL GOOD, MARKING 144 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=145
+tps/ACEH.csv >>
+145,1,1687616
+ALL GOOD, MARKING 145 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=146
+tps/ACEH.csv >>
+146,1,1687619
+ALL GOOD, MARKING 146 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=147
+tps/ACEH.csv >>
+147,1,1687051
+147,2,1687052
+ALL GOOD, MARKING 147 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=149
+tps/ACEH.csv >>
+149,1,1683934
+149,2,1683935
+ALL GOOD, MARKING 149 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=150
+tps/ACEH.csv >>
+150,1,1683900
+ALL GOOD, MARKING 150 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=151
+tps/ACEH.csv >>
+151,1,1727274
+ALL GOOD, MARKING 151 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=152
+tps/ACEH.csv >>
+152,1,1683930
+ALL GOOD, MARKING 152 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=153
+tps/ACEH.csv >>
+153,1,1683972
+ALL GOOD, MARKING 153 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=154
+tps/ACEH.csv >>
+154,1,1684133
+ALL GOOD, MARKING 154 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=155
+tps/ACEH.csv >>
+155,1,1683992
+ALL GOOD, MARKING 155 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=156
+tps/ACEH.csv >>
+156,1,1684030
+ALL GOOD, MARKING 156 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=157
+tps/ACEH.csv >>
+157,1,1684056
+ALL GOOD, MARKING 157 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=158
+tps/ACEH.csv >>
+158,1,1684042
+ALL GOOD, MARKING 158 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=159
+tps/ACEH.csv >>
+159,1,1684111
+ALL GOOD, MARKING 159 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=160
+tps/ACEH.csv >>
+160,1,1684000
+ALL GOOD, MARKING 160 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=162
+tps/ACEH.csv >>
+162,1,1689122
+162,2,1689123
+ALL GOOD, MARKING 162 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=163
+tps/ACEH.csv >>
+163,1,1689128
+ALL GOOD, MARKING 163 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=164
+tps/ACEH.csv >>
+164,1,1689135
+164,2,1689136
+ALL GOOD, MARKING 164 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=165
+tps/ACEH.csv >>
+165,1,1689186
+ALL GOOD, MARKING 165 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=166
+tps/ACEH.csv >>
+166,1,1689205
+166,2,1689206
+ALL GOOD, MARKING 166 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=167
+tps/ACEH.csv >>
+167,1,1689228
+167,2,1689229
+167,3,1689230
+ALL GOOD, MARKING 167 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=168
+tps/ACEH.csv >>
+168,1,1689267
+168,2,1689269
+168,3,1689270
+168,4,1689272
+168,5,1689275
+ALL GOOD, MARKING 168 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=169
+tps/ACEH.csv >>
+169,1,1689312
+ALL GOOD, MARKING 169 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=170
+tps/ACEH.csv >>
+170,1,1689316
+170,2,1689317
+ALL GOOD, MARKING 170 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=171
+tps/ACEH.csv >>
+171,1,1689341
+ALL GOOD, MARKING 171 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=172
+tps/ACEH.csv >>
+172,1,1689344
+172,2,1689345
+ALL GOOD, MARKING 172 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=173
+tps/ACEH.csv >>
+173,1,1689478
+173,2,1689479
+ALL GOOD, MARKING 173 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=174
+tps/ACEH.csv >>
+174,1,1689516
+ALL GOOD, MARKING 174 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=175
+tps/ACEH.csv >>
+175,1,1689543
+175,2,1689544
+ALL GOOD, MARKING 175 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=176
+tps/ACEH.csv >>
+176,1,1689612
+176,2,1689613
+ALL GOOD, MARKING 176 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=177
+tps/ACEH.csv >>
+177,1,1689633
+177,2,1689634
+ALL GOOD, MARKING 177 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=178
+tps/ACEH.csv >>
+178,1,1689641
+178,2,1689642
+ALL GOOD, MARKING 178 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=179
+tps/ACEH.csv >>
+179,1,1689674
+179,2,1689675
+ALL GOOD, MARKING 179 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=180
+tps/ACEH.csv >>
+180,1,1689714
+ALL GOOD, MARKING 180 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=181
+tps/ACEH.csv >>
+181,1,1689719
+ALL GOOD, MARKING 181 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=183
+tps/ACEH.csv >>
+183,1,1688832
+ALL GOOD, MARKING 183 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=184
+tps/ACEH.csv >>
+184,1,1688834
+184,2,1688835
+ALL GOOD, MARKING 184 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=185
+tps/ACEH.csv >>
+185,1,1688881
+185,2,1688883
+ALL GOOD, MARKING 185 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=186
+tps/ACEH.csv >>
+186,1,1688912
+ALL GOOD, MARKING 186 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=187
+tps/ACEH.csv >>
+187,1,1688913
+187,2,1688914
+ALL GOOD, MARKING 187 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=188
+tps/ACEH.csv >>
+188,1,1688915
+ALL GOOD, MARKING 188 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=189
+tps/ACEH.csv >>
+189,1,1688916
+189,2,1688917
+ALL GOOD, MARKING 189 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=191
+tps/ACEH.csv >>
+191,1,1684610
+191,2,1684611
+ALL GOOD, MARKING 191 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=192
+tps/ACEH.csv >>
+192,1,1684868
+192,2,1712116
+ALL GOOD, MARKING 192 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=193
+tps/ACEH.csv >>
+193,1,1684960
+ALL GOOD, MARKING 193 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=194
+tps/ACEH.csv >>
+194,1,1684757
+ALL GOOD, MARKING 194 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=195
+tps/ACEH.csv >>
+195,1,1684624
+195,2,1684625
+ALL GOOD, MARKING 195 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=196
+tps/ACEH.csv >>
+196,1,1684768
+ALL GOOD, MARKING 196 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=197
+tps/ACEH.csv >>
+197,1,1684771
+ALL GOOD, MARKING 197 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=198
+tps/ACEH.csv >>
+198,1,1684783
+ALL GOOD, MARKING 198 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=199
+tps/ACEH.csv >>
+199,1,1684786
+ALL GOOD, MARKING 199 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=201
+tps/ACEH.csv >>
+201,1,1689680
+ALL GOOD, MARKING 201 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=202
+tps/ACEH.csv >>
+202,1,1685003
+ALL GOOD, MARKING 202 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=203
+tps/ACEH.csv >>
+203,1,1684982
+ALL GOOD, MARKING 203 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=205
+tps/ACEH.csv >>
+205,1,1690659
+205,2,1690660
+205,3,1690661
+205,4,1690662
+ALL GOOD, MARKING 205 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=206
+tps/ACEH.csv >>
+206,1,1690844
+206,2,1690845
+206,3,1690846
+ALL GOOD, MARKING 206 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=207
+tps/ACEH.csv >>
+207,1,1690757
+207,2,1690758
+ALL GOOD, MARKING 207 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=208
+tps/ACEH.csv >>
+208,1,1690920
+208,2,1690921
+208,3,1690924
+ALL GOOD, MARKING 208 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=209
+tps/ACEH.csv >>
+209,1,1690905
+ALL GOOD, MARKING 209 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=210
+tps/ACEH.csv >>
+210,1,1690956
+210,2,1690957
+210,3,1690958
+210,4,1690959
+ALL GOOD, MARKING 210 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=211
+tps/ACEH.csv >>
+211,1,1691016
+211,2,1691018
+ALL GOOD, MARKING 211 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=214
+tps/ACEH.csv >>
+214,1,1689715
+214,2,1689716
+ALL GOOD, MARKING 214 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=215
+tps/ACEH.csv >>
+215,1,1689690
+215,2,1689691
+ALL GOOD, MARKING 215 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=216
+tps/ACEH.csv >>
+216,1,1689742
+ALL GOOD, MARKING 216 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=217
+tps/ACEH.csv >>
+217,1,1689753
+ALL GOOD, MARKING 217 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=218
+tps/ACEH.csv >>
+218,1,1689768
+ALL GOOD, MARKING 218 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=219
+tps/ACEH.csv >>
+219,1,1690386
+219,2,1690388
+219,3,1690390
+ALL GOOD, MARKING 219 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=220
+tps/ACEH.csv >>
+220,1,1745895
+220,2,1745896
+220,3,1745918
+ALL GOOD, MARKING 220 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=221
+tps/ACEH.csv >>
+221,1,1690402
+221,2,1690403
+ALL GOOD, MARKING 221 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=223
+tps/ACEH.csv >>
+223,1,1691550
+223,2,1691551
+ALL GOOD, MARKING 223 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=224
+tps/ACEH.csv >>
+224,1,1691092
+224,2,1691094
+ALL GOOD, MARKING 224 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=225
+tps/ACEH.csv >>
+225,1,1691539
+225,2,1691540
+225,3,1691542
+ALL GOOD, MARKING 225 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=226
+tps/ACEH.csv >>
+226,1,1691570
+226,2,1691571
+226,3,1691572
+ALL GOOD, MARKING 226 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=227
+tps/ACEH.csv >>
+227,1,1691580
+227,2,1691581
+227,3,1691583
+ALL GOOD, MARKING 227 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=228
+tps/ACEH.csv >>
+228,1,1690733
+228,2,1690734
+228,3,1690735
+ALL GOOD, MARKING 228 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=229
+tps/ACEH.csv >>
+229,1,1691526
+229,2,1691528
+ALL GOOD, MARKING 229 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=230
+tps/ACEH.csv >>
+230,1,1691517
+ALL GOOD, MARKING 230 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=231
+tps/ACEH.csv >>
+231,1,1690873
+231,2,1690875
+231,3,1690876
+ALL GOOD, MARKING 231 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=232
+tps/ACEH.csv >>
+232,1,1691148
+232,2,1691149
+232,3,1691151
+232,4,1691152
+ALL GOOD, MARKING 232 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=233
+tps/ACEH.csv >>
+233,1,1691074
+ALL GOOD, MARKING 233 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=234
+tps/ACEH.csv >>
+234,1,1690392
+234,2,1690393
+234,3,1690394
+234,4,1690395
+ALL GOOD, MARKING 234 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=235
+tps/ACEH.csv >>
+235,1,1691576
+235,2,1691577
+ALL GOOD, MARKING 235 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=237
+tps/ACEH.csv >>
+237,1,1691466
+237,2,1691467
+237,3,1691468
+ALL GOOD, MARKING 237 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=238
+tps/ACEH.csv >>
+238,1,1691439
+238,2,1691440
+ALL GOOD, MARKING 238 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=239
+tps/ACEH.csv >>
+239,1,1691437
+ALL GOOD, MARKING 239 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=240
+tps/ACEH.csv >>
+240,1,1691423
+240,2,1691424
+ALL GOOD, MARKING 240 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=241
+tps/ACEH.csv >>
+241,1,1691482
+ALL GOOD, MARKING 241 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=242
+tps/ACEH.csv >>
+242,1,1691476
+ALL GOOD, MARKING 242 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=243
+tps/ACEH.csv >>
+243,1,1691510
+243,2,1691511
+ALL GOOD, MARKING 243 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=244
+tps/ACEH.csv >>
+244,1,1691418
+244,2,1691419
+ALL GOOD, MARKING 244 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=245
+tps/ACEH.csv >>
+245,1,1691442
+245,2,1691443
+245,3,1691444
+245,4,1691445
+ALL GOOD, MARKING 245 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=246
+tps/ACEH.csv >>
+246,1,1691396
+246,2,1691397
+ALL GOOD, MARKING 246 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=247
+tps/ACEH.csv >>
+247,1,1691375
+247,2,1691378
+247,3,1691387
+ALL GOOD, MARKING 247 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=249
+tps/ACEH.csv >>
+249,1,1678516
+249,2,1678517
+249,3,1678518
+ALL GOOD, MARKING 249 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=250
+tps/ACEH.csv >>
+250,1,1684356
+ALL GOOD, MARKING 250 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=251
+tps/ACEH.csv >>
+251,1,1684328
+ALL GOOD, MARKING 251 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=252
+tps/ACEH.csv >>
+252,1,1684538
+ALL GOOD, MARKING 252 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=253
+tps/ACEH.csv >>
+253,1,1684407
+253,2,1684410
+ALL GOOD, MARKING 253 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=254
+tps/ACEH.csv >>
+254,1,1684381
+ALL GOOD, MARKING 254 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=255
+tps/ACEH.csv >>
+255,1,1684364
+ALL GOOD, MARKING 255 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=256
+tps/ACEH.csv >>
+256,1,1678479
+ALL GOOD, MARKING 256 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=257
+tps/ACEH.csv >>
+257,1,1684367
+257,2,1684368
+ALL GOOD, MARKING 257 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=258
+tps/ACEH.csv >>
+258,1,1678439
+258,2,1678441
+ALL GOOD, MARKING 258 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=260
+tps/ACEH.csv >>
+260,1,1690472
+260,2,1690473
+260,3,1690474
+ALL GOOD, MARKING 260 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=261
+tps/ACEH.csv >>
+261,1,1690556
+ALL GOOD, MARKING 261 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=262
+tps/ACEH.csv >>
+262,1,1690481
+ALL GOOD, MARKING 262 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=263
+tps/ACEH.csv >>
+263,1,1690482
+ALL GOOD, MARKING 263 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=264
+tps/ACEH.csv >>
+264,1,1690480
+ALL GOOD, MARKING 264 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=265
+tps/ACEH.csv >>
+265,1,1690476
+ALL GOOD, MARKING 265 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=266
+tps/ACEH.csv >>
+266,1,1690484
+ALL GOOD, MARKING 266 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=267
+tps/ACEH.csv >>
+267,1,1690479
+ALL GOOD, MARKING 267 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=268
+tps/ACEH.csv >>
+268,1,1690483
+ALL GOOD, MARKING 268 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=271
+tps/ACEH.csv >>
+271,1,1240346
+ALL GOOD, MARKING 271 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=272
+tps/ACEH.csv >>
+272,1,1240462
+ALL GOOD, MARKING 272 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=273
+tps/ACEH.csv >>
+273,1,1240803
+ALL GOOD, MARKING 273 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=274
+tps/ACEH.csv >>
+274,1,1239666
+ALL GOOD, MARKING 274 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=275
+tps/ACEH.csv >>
+275,1,1240062
+ALL GOOD, MARKING 275 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=276
+tps/ACEH.csv >>
+276,1,1239892
+ALL GOOD, MARKING 276 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=277
+tps/ACEH.csv >>
+277,1,1240327
+ALL GOOD, MARKING 277 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=278
+tps/ACEH.csv >>
+278,1,1239670
+ALL GOOD, MARKING 278 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=279
+tps/ACEH.csv >>
+279,1,1239732
+ALL GOOD, MARKING 279 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=280
+tps/ACEH.csv >>
+280,1,1239682
+ALL GOOD, MARKING 280 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=281
+tps/ACEH.csv >>
+281,1,1240293
+ALL GOOD, MARKING 281 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=282
+tps/ACEH.csv >>
+282,1,1240568
+ALL GOOD, MARKING 282 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=283
+tps/ACEH.csv >>
+283,1,1240779
+ALL GOOD, MARKING 283 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=284
+tps/ACEH.csv >>
+284,1,1240784
+ALL GOOD, MARKING 284 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=285
+tps/ACEH.csv >>
+285,1,1239979
+ALL GOOD, MARKING 285 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=286
+tps/ACEH.csv >>
+286,1,1239640
+ALL GOOD, MARKING 286 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=287
+tps/ACEH.csv >>
+287,1,1240282
+ALL GOOD, MARKING 287 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=288
+tps/ACEH.csv >>
+288,1,1239623
+ALL GOOD, MARKING 288 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=289
+tps/ACEH.csv >>
+289,1,1240544
+ALL GOOD, MARKING 289 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=290
+tps/ACEH.csv >>
+290,1,1240720
+ALL GOOD, MARKING 290 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=291
+tps/ACEH.csv >>
+291,1,1240510
+ALL GOOD, MARKING 291 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=292
+tps/ACEH.csv >>
+292,1,1239626
+ALL GOOD, MARKING 292 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=293
+tps/ACEH.csv >>
+293,1,1240600
+ALL GOOD, MARKING 293 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=294
+tps/ACEH.csv >>
+294,1,1240252
+ALL GOOD, MARKING 294 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=295
+tps/ACEH.csv >>
+295,1,1240619
+ALL GOOD, MARKING 295 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=296
+tps/ACEH.csv >>
+296,1,1240405
+ALL GOOD, MARKING 296 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=297
+tps/ACEH.csv >>
+297,1,1240389
+ALL GOOD, MARKING 297 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=298
+tps/ACEH.csv >>
+298,1,1239656
+ALL GOOD, MARKING 298 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=300
+tps/ACEH.csv >>
+300,1,1242940
+ALL GOOD, MARKING 300 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=301
+tps/ACEH.csv >>
+301,1,1242989
+ALL GOOD, MARKING 301 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=302
+tps/ACEH.csv >>
+302,1,1244254
+ALL GOOD, MARKING 302 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=303
+tps/ACEH.csv >>
+303,1,1244484
+ALL GOOD, MARKING 303 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=304
+tps/ACEH.csv >>
+304,1,1244468
+ALL GOOD, MARKING 304 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=305
+tps/ACEH.csv >>
+305,1,1244478
+ALL GOOD, MARKING 305 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=306
+tps/ACEH.csv >>
+306,1,1244429
+ALL GOOD, MARKING 306 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=307
+tps/ACEH.csv >>
+307,1,1244670
+ALL GOOD, MARKING 307 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=308
+tps/ACEH.csv >>
+308,1,1244161
+ALL GOOD, MARKING 308 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=309
+tps/ACEH.csv >>
+309,1,1248272
+ALL GOOD, MARKING 309 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=310
+tps/ACEH.csv >>
+310,1,1243232
+ALL GOOD, MARKING 310 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=311
+tps/ACEH.csv >>
+311,1,1243119
+ALL GOOD, MARKING 311 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=312
+tps/ACEH.csv >>
+312,1,1244316
+ALL GOOD, MARKING 312 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=313
+tps/ACEH.csv >>
+313,1,1244298
+313,2,1244299
+ALL GOOD, MARKING 313 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=314
+tps/ACEH.csv >>
+314,1,1244689
+ALL GOOD, MARKING 314 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=315
+tps/ACEH.csv >>
+315,1,1244486
+ALL GOOD, MARKING 315 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=316
+tps/ACEH.csv >>
+316,1,1244490
+ALL GOOD, MARKING 316 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=317
+tps/ACEH.csv >>
+317,1,1244412
+ALL GOOD, MARKING 317 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=318
+tps/ACEH.csv >>
+318,1,1244393
+ALL GOOD, MARKING 318 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=319
+tps/ACEH.csv >>
+319,1,1244683
+ALL GOOD, MARKING 319 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=320
+tps/ACEH.csv >>
+320,1,1243087
+ALL GOOD, MARKING 320 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=321
+tps/ACEH.csv >>
+321,1,1244651
+ALL GOOD, MARKING 321 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=322
+tps/ACEH.csv >>
+322,1,1242970
+ALL GOOD, MARKING 322 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=323
+tps/ACEH.csv >>
+323,1,1244354
+ALL GOOD, MARKING 323 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=324
+tps/ACEH.csv >>
+324,1,1244336
+ALL GOOD, MARKING 324 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=325
+tps/ACEH.csv >>
+325,1,1243162
+ALL GOOD, MARKING 325 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=326
+tps/ACEH.csv >>
+326,1,1243184
+ALL GOOD, MARKING 326 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=327
+tps/ACEH.csv >>
+327,1,1244491
+ALL GOOD, MARKING 327 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=328
+tps/ACEH.csv >>
+328,1,1244325
+ALL GOOD, MARKING 328 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=329
+tps/ACEH.csv >>
+329,1,1243191
+ALL GOOD, MARKING 329 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=330
+tps/ACEH.csv >>
+330,1,1243203
+ALL GOOD, MARKING 330 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=331
+tps/ACEH.csv >>
+331,1,1244458
+ALL GOOD, MARKING 331 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=332
+tps/ACEH.csv >>
+332,1,1244379
+ALL GOOD, MARKING 332 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=333
+tps/ACEH.csv >>
+333,1,1243348
+ALL GOOD, MARKING 333 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=334
+tps/ACEH.csv >>
+334,1,1244498
+ALL GOOD, MARKING 334 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=336
+tps/ACEH.csv >>
+336,1,1237149
+ALL GOOD, MARKING 336 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=337
+tps/ACEH.csv >>
+337,1,1237384
+ALL GOOD, MARKING 337 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=338
+tps/ACEH.csv >>
+338,1,1237469
+338,2,1237470
+ALL GOOD, MARKING 338 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=339
+tps/ACEH.csv >>
+339,1,1237523
+ALL GOOD, MARKING 339 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=340
+tps/ACEH.csv >>
+340,1,1237155
+ALL GOOD, MARKING 340 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=341
+tps/ACEH.csv >>
+341,1,1237354
+ALL GOOD, MARKING 341 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=342
+tps/ACEH.csv >>
+342,1,1237465
+ALL GOOD, MARKING 342 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=343
+tps/ACEH.csv >>
+343,1,1237539
+ALL GOOD, MARKING 343 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=344
+tps/ACEH.csv >>
+344,1,1237532
+ALL GOOD, MARKING 344 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=345
+tps/ACEH.csv >>
+345,1,1237557
+ALL GOOD, MARKING 345 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=346
+tps/ACEH.csv >>
+346,1,1237258
+346,2,1237259
+ALL GOOD, MARKING 346 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=347
+tps/ACEH.csv >>
+347,1,1237277
+ALL GOOD, MARKING 347 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=348
+tps/ACEH.csv >>
+348,1,1237248
+ALL GOOD, MARKING 348 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=349
+tps/ACEH.csv >>
+349,1,1237424
+ALL GOOD, MARKING 349 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=350
+tps/ACEH.csv >>
+350,1,1237511
+ALL GOOD, MARKING 350 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=351
+tps/ACEH.csv >>
+351,1,1237120
+ALL GOOD, MARKING 351 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=352
+tps/ACEH.csv >>
+352,1,1237406
+ALL GOOD, MARKING 352 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=353
+tps/ACEH.csv >>
+353,1,1237543
+ALL GOOD, MARKING 353 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=354
+tps/ACEH.csv >>
+354,1,1237374
+ALL GOOD, MARKING 354 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=355
+tps/ACEH.csv >>
+355,1,1237293
+ALL GOOD, MARKING 355 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=356
+tps/ACEH.csv >>
+356,1,1237497
+ALL GOOD, MARKING 356 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=357
+tps/ACEH.csv >>
+357,1,1237483
+ALL GOOD, MARKING 357 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=358
+tps/ACEH.csv >>
+358,1,1237437
+ALL GOOD, MARKING 358 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=359
+tps/ACEH.csv >>
+359,1,1237161
+ALL GOOD, MARKING 359 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=360
+tps/ACEH.csv >>
+360,1,1237186
+ALL GOOD, MARKING 360 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=361
+tps/ACEH.csv >>
+361,1,1237212
+ALL GOOD, MARKING 361 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=362
+tps/ACEH.csv >>
+362,1,1237419
+ALL GOOD, MARKING 362 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=363
+tps/ACEH.csv >>
+363,1,1237529
+ALL GOOD, MARKING 363 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=364
+tps/ACEH.csv >>
+364,1,1237399
+ALL GOOD, MARKING 364 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=365
+tps/ACEH.csv >>
+365,1,1237112
+ALL GOOD, MARKING 365 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=366
+tps/ACEH.csv >>
+366,1,1237515
+ALL GOOD, MARKING 366 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=367
+tps/ACEH.csv >>
+367,1,1237339
+ALL GOOD, MARKING 367 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=368
+tps/ACEH.csv >>
+368,1,1237333
+ALL GOOD, MARKING 368 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=370
+tps/ACEH.csv >>
+370,1,1224482
+370,2,1224483
+370,3,1224484
+370,4,1224485
+370,5,1224486
+ALL GOOD, MARKING 370 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=371
+tps/ACEH.csv >>
+371,1,1224787
+371,2,1224788
+ALL GOOD, MARKING 371 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=372
+tps/ACEH.csv >>
+372,1,1224792
+372,2,1224793
+ALL GOOD, MARKING 372 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=373
+tps/ACEH.csv >>
+373,1,1224783
+ALL GOOD, MARKING 373 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=374
+tps/ACEH.csv >>
+374,1,1224777
+ALL GOOD, MARKING 374 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=375
+tps/ACEH.csv >>
+375,1,1224465
+375,2,1224466
+ALL GOOD, MARKING 375 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=376
+tps/ACEH.csv >>
+376,1,1224469
+ALL GOOD, MARKING 376 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=377
+tps/ACEH.csv >>
+377,1,1224471
+ALL GOOD, MARKING 377 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=378
+tps/ACEH.csv >>
+378,1,1224478
+ALL GOOD, MARKING 378 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=379
+tps/ACEH.csv >>
+379,1,1224825
+379,2,1224826
+379,3,1224827
+ALL GOOD, MARKING 379 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=380
+tps/ACEH.csv >>
+380,1,1224476
+ALL GOOD, MARKING 380 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=381
+tps/ACEH.csv >>
+381,1,1224839
+ALL GOOD, MARKING 381 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=382
+tps/ACEH.csv >>
+382,1,1224518
+382,2,1224519
+ALL GOOD, MARKING 382 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=383
+tps/ACEH.csv >>
+383,1,1224475
+ALL GOOD, MARKING 383 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=384
+tps/ACEH.csv >>
+384,1,1224816
+384,2,1224817
+ALL GOOD, MARKING 384 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=385
+tps/ACEH.csv >>
+385,1,1224773
+385,2,1224774
+ALL GOOD, MARKING 385 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=386
+tps/ACEH.csv >>
+386,1,1224468
+ALL GOOD, MARKING 386 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=387
+tps/ACEH.csv >>
+387,1,1224819
+ALL GOOD, MARKING 387 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=388
+tps/ACEH.csv >>
+388,1,1224781
+ALL GOOD, MARKING 388 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=389
+tps/ACEH.csv >>
+389,1,1224841
+ALL GOOD, MARKING 389 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=390
+tps/ACEH.csv >>
+390,1,1224811
+390,2,1224812
+ALL GOOD, MARKING 390 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=391
+tps/ACEH.csv >>
+391,1,1221513
+391,2,1221514
+ALL GOOD, MARKING 391 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=392
+tps/ACEH.csv >>
+392,1,1224463
+ALL GOOD, MARKING 392 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=393
+tps/ACEH.csv >>
+393,1,1224472
+ALL GOOD, MARKING 393 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=394
+tps/ACEH.csv >>
+394,1,1224824
+ALL GOOD, MARKING 394 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=395
+tps/ACEH.csv >>
+395,1,1224477
+ALL GOOD, MARKING 395 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=396
+tps/ACEH.csv >>
+396,1,1224780
+ALL GOOD, MARKING 396 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=398
+tps/ACEH.csv >>
+398,1,1224878
+ALL GOOD, MARKING 398 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=399
+tps/ACEH.csv >>
+399,1,1224855
+ALL GOOD, MARKING 399 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=400
+tps/ACEH.csv >>
+400,1,1270626
+ALL GOOD, MARKING 400 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=401
+tps/ACEH.csv >>
+401,1,1224856
+ALL GOOD, MARKING 401 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=402
+tps/ACEH.csv >>
+402,1,1224851
+ALL GOOD, MARKING 402 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=403
+tps/ACEH.csv >>
+403,1,1224875
+ALL GOOD, MARKING 403 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=404
+tps/ACEH.csv >>
+404,1,1224870
+ALL GOOD, MARKING 404 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=405
+tps/ACEH.csv >>
+405,1,1224853
+405,2,1224854
+ALL GOOD, MARKING 405 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=406
+tps/ACEH.csv >>
+406,1,1270585
+406,2,1270586
+ALL GOOD, MARKING 406 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=407
+tps/ACEH.csv >>
+407,1,1224872
+407,2,1785467
+ALL GOOD, MARKING 407 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=408
+tps/ACEH.csv >>
+408,1,1224849
+408,2,1224850
+ALL GOOD, MARKING 408 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=409
+tps/ACEH.csv >>
+409,1,1224858
+ALL GOOD, MARKING 409 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=410
+tps/ACEH.csv >>
+410,1,1224867
+ALL GOOD, MARKING 410 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=411
+tps/ACEH.csv >>
+411,1,1224843
+ALL GOOD, MARKING 411 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=412
+tps/ACEH.csv >>
+412,1,1224846
+ALL GOOD, MARKING 412 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=413
+tps/ACEH.csv >>
+413,1,1224879
+ALL GOOD, MARKING 413 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=414
+tps/ACEH.csv >>
+414,1,1224880
+ALL GOOD, MARKING 414 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=415
+tps/ACEH.csv >>
+415,1,1224868
+ALL GOOD, MARKING 415 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=417
+tps/ACEH.csv >>
+417,1,1223608
+ALL GOOD, MARKING 417 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=418
+tps/ACEH.csv >>
+418,1,1223533
+ALL GOOD, MARKING 418 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=419
+tps/ACEH.csv >>
+419,1,1223542
+ALL GOOD, MARKING 419 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=420
+tps/ACEH.csv >>
+420,1,1223605
+ALL GOOD, MARKING 420 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=421
+tps/ACEH.csv >>
+421,1,1223401
+421,2,1223402
+ALL GOOD, MARKING 421 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=422
+tps/ACEH.csv >>
+422,1,1223600
+422,2,1223601
+ALL GOOD, MARKING 422 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=423
+tps/ACEH.csv >>
+423,1,1223544
+ALL GOOD, MARKING 423 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=424
+tps/ACEH.csv >>
+424,1,1223483
+ALL GOOD, MARKING 424 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=425
+tps/ACEH.csv >>
+425,1,1223596
+ALL GOOD, MARKING 425 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=426
+tps/ACEH.csv >>
+426,1,1223616
+ALL GOOD, MARKING 426 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=427
+tps/ACEH.csv >>
+427,1,1223504
+ALL GOOD, MARKING 427 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=428
+tps/ACEH.csv >>
+428,1,1223545
+ALL GOOD, MARKING 428 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=429
+tps/ACEH.csv >>
+429,1,1223406
+ALL GOOD, MARKING 429 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=430
+tps/ACEH.csv >>
+430,1,1223576
+ALL GOOD, MARKING 430 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=431
+tps/ACEH.csv >>
+431,1,1223622
+ALL GOOD, MARKING 431 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=432
+tps/ACEH.csv >>
+432,1,1223621
+ALL GOOD, MARKING 432 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=433
+tps/ACEH.csv >>
+433,1,1223561
+ALL GOOD, MARKING 433 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=434
+tps/ACEH.csv >>
+434,1,1223613
+ALL GOOD, MARKING 434 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=435
+tps/ACEH.csv >>
+435,1,1223408
+ALL GOOD, MARKING 435 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=436
+tps/ACEH.csv >>
+436,1,1223610
+ALL GOOD, MARKING 436 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=437
+tps/ACEH.csv >>
+437,1,1223559
+ALL GOOD, MARKING 437 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=439
+tps/ACEH.csv >>
+439,1,1237868
+ALL GOOD, MARKING 439 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=440
+tps/ACEH.csv >>
+440,1,1237993
+ALL GOOD, MARKING 440 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=441
+tps/ACEH.csv >>
+441,1,1238087
+ALL GOOD, MARKING 441 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=442
+tps/ACEH.csv >>
+442,1,1237908
+ALL GOOD, MARKING 442 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=443
+tps/ACEH.csv >>
+443,1,1237950
+ALL GOOD, MARKING 443 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=444
+tps/ACEH.csv >>
+444,1,1237883
+ALL GOOD, MARKING 444 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=445
+tps/ACEH.csv >>
+445,1,1237973
+ALL GOOD, MARKING 445 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=446
+tps/ACEH.csv >>
+446,1,1238056
+ALL GOOD, MARKING 446 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=447
+tps/ACEH.csv >>
+447,1,1238084
+ALL GOOD, MARKING 447 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=448
+tps/ACEH.csv >>
+448,1,1238009
+ALL GOOD, MARKING 448 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=449
+tps/ACEH.csv >>
+449,1,1238053
+ALL GOOD, MARKING 449 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=450
+tps/ACEH.csv >>
+450,1,1238013
+ALL GOOD, MARKING 450 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=451
+tps/ACEH.csv >>
+451,1,1238098
+ALL GOOD, MARKING 451 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=452
+tps/ACEH.csv >>
+452,1,1237925
+ALL GOOD, MARKING 452 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=453
+tps/ACEH.csv >>
+453,1,1237978
+ALL GOOD, MARKING 453 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=454
+tps/ACEH.csv >>
+454,1,1237999
+ALL GOOD, MARKING 454 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=455
+tps/ACEH.csv >>
+455,1,1237971
+ALL GOOD, MARKING 455 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=456
+tps/ACEH.csv >>
+456,1,1237866
+ALL GOOD, MARKING 456 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=457
+tps/ACEH.csv >>
+457,1,1238081
+ALL GOOD, MARKING 457 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=458
+tps/ACEH.csv >>
+458,1,1237991
+ALL GOOD, MARKING 458 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=459
+tps/ACEH.csv >>
+459,1,1237886
+ALL GOOD, MARKING 459 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=460
+tps/ACEH.csv >>
+460,1,1237875
+ALL GOOD, MARKING 460 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=461
+tps/ACEH.csv >>
+461,1,1237934
+ALL GOOD, MARKING 461 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=462
+tps/ACEH.csv >>
+462,1,1238072
+ALL GOOD, MARKING 462 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=463
+tps/ACEH.csv >>
+463,1,1238040
+ALL GOOD, MARKING 463 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=464
+tps/ACEH.csv >>
+464,1,1237938
+ALL GOOD, MARKING 464 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=465
+tps/ACEH.csv >>
+465,1,1237861
+ALL GOOD, MARKING 465 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=466
+tps/ACEH.csv >>
+466,1,1237887
+ALL GOOD, MARKING 466 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=468
+tps/ACEH.csv >>
+468,1,1242685
+ALL GOOD, MARKING 468 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=469
+tps/ACEH.csv >>
+469,1,1242724
+ALL GOOD, MARKING 469 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=470
+tps/ACEH.csv >>
+470,1,1242176
+ALL GOOD, MARKING 470 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=471
+tps/ACEH.csv >>
+471,1,1242291
+ALL GOOD, MARKING 471 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=472
+tps/ACEH.csv >>
+472,1,1242254
+ALL GOOD, MARKING 472 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=473
+tps/ACEH.csv >>
+473,1,1242197
+ALL GOOD, MARKING 473 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=474
+tps/ACEH.csv >>
+474,1,1242232
+ALL GOOD, MARKING 474 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=475
+tps/ACEH.csv >>
+475,1,1242238
+475,2,1242239
+475,3,1242240
+ALL GOOD, MARKING 475 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=476
+tps/ACEH.csv >>
+476,1,1242065
+ALL GOOD, MARKING 476 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=477
+tps/ACEH.csv >>
+477,1,1242878
+ALL GOOD, MARKING 477 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=478
+tps/ACEH.csv >>
+478,1,1242828
+ALL GOOD, MARKING 478 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=479
+tps/ACEH.csv >>
+479,1,1242123
+ALL GOOD, MARKING 479 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=480
+tps/ACEH.csv >>
+480,1,1242218
+ALL GOOD, MARKING 480 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=481
+tps/ACEH.csv >>
+481,1,1242222
+ALL GOOD, MARKING 481 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=482
+tps/ACEH.csv >>
+482,1,1242038
+ALL GOOD, MARKING 482 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=483
+tps/ACEH.csv >>
+483,1,1242650
+ALL GOOD, MARKING 483 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=484
+tps/ACEH.csv >>
+484,1,1242863
+ALL GOOD, MARKING 484 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=485
+tps/ACEH.csv >>
+485,1,1242791
+485,2,1242792
+ALL GOOD, MARKING 485 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=486
+tps/ACEH.csv >>
+486,1,1242170
+ALL GOOD, MARKING 486 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=487
+tps/ACEH.csv >>
+487,1,1242207
+ALL GOOD, MARKING 487 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=488
+tps/ACEH.csv >>
+488,1,1242251
+ALL GOOD, MARKING 488 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=489
+tps/ACEH.csv >>
+489,1,1242778
+ALL GOOD, MARKING 489 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=490
+tps/ACEH.csv >>
+490,1,1240856
+ALL GOOD, MARKING 490 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=491
+tps/ACEH.csv >>
+491,1,1242134
+ALL GOOD, MARKING 491 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=493
+tps/ACEH.csv >>
+493,1,1237703
+ALL GOOD, MARKING 493 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=494
+tps/ACEH.csv >>
+494,1,1237704
+ALL GOOD, MARKING 494 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=495
+tps/ACEH.csv >>
+495,1,1237842
+ALL GOOD, MARKING 495 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=496
+tps/ACEH.csv >>
+496,1,1237580
+ALL GOOD, MARKING 496 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=497
+tps/ACEH.csv >>
+497,1,1237736
+ALL GOOD, MARKING 497 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=498
+tps/ACEH.csv >>
+498,1,1237836
+ALL GOOD, MARKING 498 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=499
+tps/ACEH.csv >>
+499,1,1237720
+ALL GOOD, MARKING 499 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=500
+tps/ACEH.csv >>
+500,1,1237806
+ALL GOOD, MARKING 500 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=501
+tps/ACEH.csv >>
+501,1,1237656
+ALL GOOD, MARKING 501 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=502
+tps/ACEH.csv >>
+502,1,1237731
+ALL GOOD, MARKING 502 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=503
+tps/ACEH.csv >>
+503,1,1237801
+ALL GOOD, MARKING 503 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=504
+tps/ACEH.csv >>
+504,1,1237604
+ALL GOOD, MARKING 504 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=505
+tps/ACEH.csv >>
+505,1,1237770
+ALL GOOD, MARKING 505 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=506
+tps/ACEH.csv >>
+506,1,1237648
+ALL GOOD, MARKING 506 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=507
+tps/ACEH.csv >>
+507,1,1237599
+ALL GOOD, MARKING 507 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=508
+tps/ACEH.csv >>
+508,1,1237827
+ALL GOOD, MARKING 508 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=509
+tps/ACEH.csv >>
+509,1,1237650
+ALL GOOD, MARKING 509 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=510
+tps/ACEH.csv >>
+510,1,1237682
+ALL GOOD, MARKING 510 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=511
+tps/ACEH.csv >>
+511,1,1237750
+ALL GOOD, MARKING 511 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=512
+tps/ACEH.csv >>
+512,1,1237746
+ALL GOOD, MARKING 512 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=513
+tps/ACEH.csv >>
+513,1,1237623
+ALL GOOD, MARKING 513 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=514
+tps/ACEH.csv >>
+514,1,1237811
+ALL GOOD, MARKING 514 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=515
+tps/ACEH.csv >>
+515,1,1237671
+ALL GOOD, MARKING 515 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=517
+tps/ACEH.csv >>
+517,1,1248521
+517,2,1248522
+ALL GOOD, MARKING 517 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=518
+tps/ACEH.csv >>
+518,1,1248361
+ALL GOOD, MARKING 518 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=519
+tps/ACEH.csv >>
+519,1,1248351
+ALL GOOD, MARKING 519 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=520
+tps/ACEH.csv >>
+520,1,1248188
+ALL GOOD, MARKING 520 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=521
+tps/ACEH.csv >>
+521,1,1248224
+ALL GOOD, MARKING 521 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=522
+tps/ACEH.csv >>
+522,1,1248061
+ALL GOOD, MARKING 522 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=523
+tps/ACEH.csv >>
+523,1,1248187
+ALL GOOD, MARKING 523 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=524
+tps/ACEH.csv >>
+524,1,1248153
+ALL GOOD, MARKING 524 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=525
+tps/ACEH.csv >>
+525,1,1248529
+ALL GOOD, MARKING 525 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=526
+tps/ACEH.csv >>
+526,1,1248311
+ALL GOOD, MARKING 526 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=527
+tps/ACEH.csv >>
+527,1,1248579
+ALL GOOD, MARKING 527 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=528
+tps/ACEH.csv >>
+528,1,1248249
+ALL GOOD, MARKING 528 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=529
+tps/ACEH.csv >>
+529,1,1248300
+ALL GOOD, MARKING 529 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=530
+tps/ACEH.csv >>
+530,1,1248028
+ALL GOOD, MARKING 530 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=531
+tps/ACEH.csv >>
+531,1,1248496
+ALL GOOD, MARKING 531 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=532
+tps/ACEH.csv >>
+532,1,1248331
+ALL GOOD, MARKING 532 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=533
+tps/ACEH.csv >>
+533,1,1248195
+ALL GOOD, MARKING 533 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=534
+tps/ACEH.csv >>
+534,1,1248233
+ALL GOOD, MARKING 534 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=535
+tps/ACEH.csv >>
+535,1,1248281
+ALL GOOD, MARKING 535 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=537
+tps/ACEH.csv >>
+537,1,1224434
+ALL GOOD, MARKING 537 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=538
+tps/ACEH.csv >>
+538,1,1224420
+ALL GOOD, MARKING 538 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=539
+tps/ACEH.csv >>
+539,1,1258178
+ALL GOOD, MARKING 539 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=540
+tps/ACEH.csv >>
+540,1,1224416
+ALL GOOD, MARKING 540 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=541
+tps/ACEH.csv >>
+541,1,1259514
+ALL GOOD, MARKING 541 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=542
+tps/ACEH.csv >>
+542,1,1224424
+ALL GOOD, MARKING 542 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=543
+tps/ACEH.csv >>
+543,1,1224422
+ALL GOOD, MARKING 543 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=544
+tps/ACEH.csv >>
+544,1,1224419
+ALL GOOD, MARKING 544 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=545
+tps/ACEH.csv >>
+545,1,1224421
+ALL GOOD, MARKING 545 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=546
+tps/ACEH.csv >>
+546,1,1224408
+ALL GOOD, MARKING 546 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=547
+tps/ACEH.csv >>
+547,1,1224437
+ALL GOOD, MARKING 547 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=548
+tps/ACEH.csv >>
+548,1,1224439
+ALL GOOD, MARKING 548 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=549
+tps/ACEH.csv >>
+549,1,1224418
+ALL GOOD, MARKING 549 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=550
+tps/ACEH.csv >>
+550,1,1224414
+ALL GOOD, MARKING 550 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=551
+tps/ACEH.csv >>
+551,1,1224405
+ALL GOOD, MARKING 551 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=552
+tps/ACEH.csv >>
+552,1,1224417
+ALL GOOD, MARKING 552 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=553
+tps/ACEH.csv >>
+553,1,1224411
+ALL GOOD, MARKING 553 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=554
+tps/ACEH.csv >>
+554,1,1224436
+ALL GOOD, MARKING 554 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=555
+tps/ACEH.csv >>
+555,1,1224427
+ALL GOOD, MARKING 555 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=556
+tps/ACEH.csv >>
+556,1,1224402
+ALL GOOD, MARKING 556 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=557
+tps/ACEH.csv >>
+557,1,1224425
+ALL GOOD, MARKING 557 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=558
+tps/ACEH.csv >>
+558,1,1224428
+ALL GOOD, MARKING 558 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=559
+tps/ACEH.csv >>
+559,1,1224423
+ALL GOOD, MARKING 559 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=560
+tps/ACEH.csv >>
+560,1,1224426
+ALL GOOD, MARKING 560 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=561
+tps/ACEH.csv >>
+561,1,1224438
+ALL GOOD, MARKING 561 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=562
+tps/ACEH.csv >>
+562,1,1224399
+ALL GOOD, MARKING 562 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=563
+tps/ACEH.csv >>
+563,1,1224433
+ALL GOOD, MARKING 563 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=565
+tps/ACEH.csv >>
+565,1,1238949
+ALL GOOD, MARKING 565 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=566
+tps/ACEH.csv >>
+566,1,1239403
+ALL GOOD, MARKING 566 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=567
+tps/ACEH.csv >>
+567,1,1239373
+ALL GOOD, MARKING 567 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=568
+tps/ACEH.csv >>
+568,1,1239187
+ALL GOOD, MARKING 568 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=569
+tps/ACEH.csv >>
+569,1,1239554
+ALL GOOD, MARKING 569 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=570
+tps/ACEH.csv >>
+570,1,1239224
+ALL GOOD, MARKING 570 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=571
+tps/ACEH.csv >>
+571,1,1239274
+ALL GOOD, MARKING 571 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=572
+tps/ACEH.csv >>
+572,1,1239535
+ALL GOOD, MARKING 572 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=573
+tps/ACEH.csv >>
+573,1,1239515
+ALL GOOD, MARKING 573 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=574
+tps/ACEH.csv >>
+574,1,1239145
+ALL GOOD, MARKING 574 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=575
+tps/ACEH.csv >>
+575,1,1239048
+ALL GOOD, MARKING 575 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=576
+tps/ACEH.csv >>
+576,1,1239583
+ALL GOOD, MARKING 576 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=577
+tps/ACEH.csv >>
+577,1,1239313
+ALL GOOD, MARKING 577 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=578
+tps/ACEH.csv >>
+578,1,1238994
+ALL GOOD, MARKING 578 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=579
+tps/ACEH.csv >>
+579,1,1239473
+ALL GOOD, MARKING 579 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=580
+tps/ACEH.csv >>
+580,1,1239101
+ALL GOOD, MARKING 580 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=581
+tps/ACEH.csv >>
+581,1,1239241
+ALL GOOD, MARKING 581 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=582
+tps/ACEH.csv >>
+582,1,1239464
+ALL GOOD, MARKING 582 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=583
+tps/ACEH.csv >>
+583,1,1239193
+ALL GOOD, MARKING 583 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=584
+tps/ACEH.csv >>
+584,1,1239070
+ALL GOOD, MARKING 584 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=585
+tps/ACEH.csv >>
+585,1,1239255
+ALL GOOD, MARKING 585 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=586
+tps/ACEH.csv >>
+586,1,1239441
+ALL GOOD, MARKING 586 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=587
+tps/ACEH.csv >>
+587,1,1239346
+ALL GOOD, MARKING 587 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=588
+tps/ACEH.csv >>
+588,1,1239363
+ALL GOOD, MARKING 588 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=589
+tps/ACEH.csv >>
+589,1,1239576
+ALL GOOD, MARKING 589 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=591
+tps/ACEH.csv >>
+591,1,1238337
+ALL GOOD, MARKING 591 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=592
+tps/ACEH.csv >>
+592,1,1238310
+ALL GOOD, MARKING 592 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=593
+tps/ACEH.csv >>
+593,1,1238249
+ALL GOOD, MARKING 593 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=594
+tps/ACEH.csv >>
+594,1,1675278
+ALL GOOD, MARKING 594 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=595
+tps/ACEH.csv >>
+595,1,1238408
+ALL GOOD, MARKING 595 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=596
+tps/ACEH.csv >>
+596,1,1238845
+ALL GOOD, MARKING 596 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=597
+tps/ACEH.csv >>
+597,1,1238132
+ALL GOOD, MARKING 597 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=598
+tps/ACEH.csv >>
+598,1,1238173
+ALL GOOD, MARKING 598 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=599
+tps/ACEH.csv >>
+599,1,1238437
+ALL GOOD, MARKING 599 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=600
+tps/ACEH.csv >>
+600,1,1238237
+ALL GOOD, MARKING 600 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=601
+tps/ACEH.csv >>
+601,1,1238128
+ALL GOOD, MARKING 601 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=602
+tps/ACEH.csv >>
+602,1,1238277
+ALL GOOD, MARKING 602 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=603
+tps/ACEH.csv >>
+603,1,1238765
+ALL GOOD, MARKING 603 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=604
+tps/ACEH.csv >>
+604,1,1238352
+ALL GOOD, MARKING 604 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=605
+tps/ACEH.csv >>
+605,1,1238202
+ALL GOOD, MARKING 605 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=606
+tps/ACEH.csv >>
+606,1,1238480
+ALL GOOD, MARKING 606 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=607
+tps/ACEH.csv >>
+607,1,1238443
+ALL GOOD, MARKING 607 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=608
+tps/ACEH.csv >>
+608,1,1238297
+ALL GOOD, MARKING 608 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=609
+tps/ACEH.csv >>
+609,1,1238146
+ALL GOOD, MARKING 609 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=610
+tps/ACEH.csv >>
+610,1,1238254
+ALL GOOD, MARKING 610 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=611
+tps/ACEH.csv >>
+611,1,1238112
+ALL GOOD, MARKING 611 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=612
+tps/ACEH.csv >>
+612,1,1238159
+ALL GOOD, MARKING 612 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=614
+tps/ACEH.csv >>
+614,1,1248943
+ALL GOOD, MARKING 614 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=615
+tps/ACEH.csv >>
+615,1,1248430
+ALL GOOD, MARKING 615 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=616
+tps/ACEH.csv >>
+616,1,1248520
+ALL GOOD, MARKING 616 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=617
+tps/ACEH.csv >>
+617,1,1248802
+ALL GOOD, MARKING 617 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=618
+tps/ACEH.csv >>
+618,1,1248853
+ALL GOOD, MARKING 618 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=619
+tps/ACEH.csv >>
+619,1,1248715
+ALL GOOD, MARKING 619 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=620
+tps/ACEH.csv >>
+620,1,1248345
+ALL GOOD, MARKING 620 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=621
+tps/ACEH.csv >>
+621,1,1248732
+ALL GOOD, MARKING 621 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=622
+tps/ACEH.csv >>
+622,1,1248371
+ALL GOOD, MARKING 622 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=623
+tps/ACEH.csv >>
+623,1,1248892
+ALL GOOD, MARKING 623 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=624
+tps/ACEH.csv >>
+624,1,1248746
+ALL GOOD, MARKING 624 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=625
+tps/ACEH.csv >>
+625,1,1248931
+ALL GOOD, MARKING 625 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=626
+tps/ACEH.csv >>
+626,1,1248612
+ALL GOOD, MARKING 626 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=627
+tps/ACEH.csv >>
+627,1,1248536
+ALL GOOD, MARKING 627 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=628
+tps/ACEH.csv >>
+628,1,1248758
+ALL GOOD, MARKING 628 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=629
+tps/ACEH.csv >>
+629,1,1248869
+ALL GOOD, MARKING 629 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=630
+tps/ACEH.csv >>
+630,1,1248903
+ALL GOOD, MARKING 630 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=631
+tps/ACEH.csv >>
+631,1,1248912
+ALL GOOD, MARKING 631 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=633
+tps/ACEH.csv >>
+633,1,1249217
+ALL GOOD, MARKING 633 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=634
+tps/ACEH.csv >>
+634,1,1248833
+ALL GOOD, MARKING 634 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=635
+tps/ACEH.csv >>
+635,1,1248786
+ALL GOOD, MARKING 635 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=636
+tps/ACEH.csv >>
+636,1,1248946
+ALL GOOD, MARKING 636 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=637
+tps/ACEH.csv >>
+637,1,1249193
+ALL GOOD, MARKING 637 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=638
+tps/ACEH.csv >>
+638,1,1249362
+ALL GOOD, MARKING 638 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=639
+tps/ACEH.csv >>
+639,1,1248868
+ALL GOOD, MARKING 639 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=640
+tps/ACEH.csv >>
+640,1,1249331
+ALL GOOD, MARKING 640 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=641
+tps/ACEH.csv >>
+641,1,1248808
+ALL GOOD, MARKING 641 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=642
+tps/ACEH.csv >>
+642,1,1248841
+ALL GOOD, MARKING 642 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=643
+tps/ACEH.csv >>
+643,1,1249374
+ALL GOOD, MARKING 643 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=644
+tps/ACEH.csv >>
+644,1,1249338
+ALL GOOD, MARKING 644 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=645
+tps/ACEH.csv >>
+645,1,1248748
+ALL GOOD, MARKING 645 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=646
+tps/ACEH.csv >>
+646,1,1248852
+ALL GOOD, MARKING 646 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=648
+tps/ACEH.csv >>
+648,1,1249086
+ALL GOOD, MARKING 648 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=649
+tps/ACEH.csv >>
+649,1,1249105
+649,2,1782786
+ALL GOOD, MARKING 649 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=650
+tps/ACEH.csv >>
+650,1,1249383
+ALL GOOD, MARKING 650 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=651
+tps/ACEH.csv >>
+651,1,1249141
+ALL GOOD, MARKING 651 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=652
+tps/ACEH.csv >>
+652,1,1249282
+ALL GOOD, MARKING 652 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=653
+tps/ACEH.csv >>
+653,1,1249177
+ALL GOOD, MARKING 653 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=654
+tps/ACEH.csv >>
+654,1,1249118
+ALL GOOD, MARKING 654 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=655
+tps/ACEH.csv >>
+655,1,1249296
+655,2,1782787
+ALL GOOD, MARKING 655 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=656
+tps/ACEH.csv >>
+656,1,1249265
+656,2,1782788
+656,3,1782789
+ALL GOOD, MARKING 656 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=657
+tps/ACEH.csv >>
+657,1,1249183
+ALL GOOD, MARKING 657 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=658
+tps/ACEH.csv >>
+658,1,1249259
+ALL GOOD, MARKING 658 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=659
+tps/ACEH.csv >>
+659,1,1249165
+ALL GOOD, MARKING 659 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=660
+tps/ACEH.csv >>
+660,1,1249375
+ALL GOOD, MARKING 660 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=661
+tps/ACEH.csv >>
+661,1,1249389
+ALL GOOD, MARKING 661 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=662
+tps/ACEH.csv >>
+662,1,1249309
+ALL GOOD, MARKING 662 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=663
+tps/ACEH.csv >>
+663,1,1249323
+ALL GOOD, MARKING 663 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=664
+tps/ACEH.csv >>
+664,1,1249056
+ALL GOOD, MARKING 664 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=665
+tps/ACEH.csv >>
+665,1,1249412
+ALL GOOD, MARKING 665 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=666
+tps/ACEH.csv >>
+666,1,1249399
+ALL GOOD, MARKING 666 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=667
+tps/ACEH.csv >>
+667,1,1249173
+ALL GOOD, MARKING 667 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=668
+tps/ACEH.csv >>
+668,1,1249232
+ALL GOOD, MARKING 668 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=669
+tps/ACEH.csv >>
+669,1,1249195
+ALL GOOD, MARKING 669 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=670
+tps/ACEH.csv >>
+670,1,1249341
+ALL GOOD, MARKING 670 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=673
+tps/ACEH.csv >>
+673,1,1418786
+ALL GOOD, MARKING 673 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=674
+tps/ACEH.csv >>
+674,1,1418752
+ALL GOOD, MARKING 674 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=675
+tps/ACEH.csv >>
+675,1,1418579
+ALL GOOD, MARKING 675 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=676
+tps/ACEH.csv >>
+676,1,1425395
+ALL GOOD, MARKING 676 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=677
+tps/ACEH.csv >>
+677,1,1425394
+ALL GOOD, MARKING 677 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=678
+tps/ACEH.csv >>
+678,1,1425390
+ALL GOOD, MARKING 678 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=679
+tps/ACEH.csv >>
+679,1,1427178
+ALL GOOD, MARKING 679 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=680
+tps/ACEH.csv >>
+680,1,1425408
+ALL GOOD, MARKING 680 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=681
+tps/ACEH.csv >>
+681,1,1427159
+681,2,1427160
+ALL GOOD, MARKING 681 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=682
+tps/ACEH.csv >>
+682,1,1425463
+ALL GOOD, MARKING 682 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=683
+tps/ACEH.csv >>
+683,1,1425460
+ALL GOOD, MARKING 683 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=684
+tps/ACEH.csv >>
+684,1,1425368
+ALL GOOD, MARKING 684 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=685
+tps/ACEH.csv >>
+685,1,1425467
+ALL GOOD, MARKING 685 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=686
+tps/ACEH.csv >>
+686,1,1425392
+ALL GOOD, MARKING 686 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=687
+tps/ACEH.csv >>
+687,1,1418717
+ALL GOOD, MARKING 687 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=688
+tps/ACEH.csv >>
+688,1,1425409
+ALL GOOD, MARKING 688 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=689
+tps/ACEH.csv >>
+689,1,1427189
+ALL GOOD, MARKING 689 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=690
+tps/ACEH.csv >>
+690,1,1427179
+ALL GOOD, MARKING 690 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=691
+tps/ACEH.csv >>
+691,1,1427150
+ALL GOOD, MARKING 691 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=692
+tps/ACEH.csv >>
+692,1,1425401
+ALL GOOD, MARKING 692 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=693
+tps/ACEH.csv >>
+693,1,1418750
+ALL GOOD, MARKING 693 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=694
+tps/ACEH.csv >>
+694,1,1427205
+ALL GOOD, MARKING 694 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=695
+tps/ACEH.csv >>
+695,1,1425407
+ALL GOOD, MARKING 695 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=696
+tps/ACEH.csv >>
+696,1,1425461
+ALL GOOD, MARKING 696 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=697
+tps/ACEH.csv >>
+697,1,1418973
+ALL GOOD, MARKING 697 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=698
+tps/ACEH.csv >>
+698,1,1425391
+ALL GOOD, MARKING 698 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=699
+tps/ACEH.csv >>
+699,1,1425399
+699,2,1425400
+ALL GOOD, MARKING 699 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=700
+tps/ACEH.csv >>
+700,1,1425468
+ALL GOOD, MARKING 700 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=701
+tps/ACEH.csv >>
+701,1,1425398
+ALL GOOD, MARKING 701 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=702
+tps/ACEH.csv >>
+702,1,1427046
+702,2,1427047
+702,3,1427048
+ALL GOOD, MARKING 702 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=703
+tps/ACEH.csv >>
+703,1,1427190
+ALL GOOD, MARKING 703 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=704
+tps/ACEH.csv >>
+704,1,1425448
+ALL GOOD, MARKING 704 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=705
+tps/ACEH.csv >>
+705,1,1425472
+705,2,1425473
+ALL GOOD, MARKING 705 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=706
+tps/ACEH.csv >>
+706,1,1425396
+ALL GOOD, MARKING 706 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=707
+tps/ACEH.csv >>
+707,1,1425358
+ALL GOOD, MARKING 707 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=708
+tps/ACEH.csv >>
+708,1,1418994
+ALL GOOD, MARKING 708 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=709
+tps/ACEH.csv >>
+709,1,1425356
+ALL GOOD, MARKING 709 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=710
+tps/ACEH.csv >>
+710,1,1425357
+ALL GOOD, MARKING 710 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=711
+tps/ACEH.csv >>
+711,1,1425393
+ALL GOOD, MARKING 711 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=712
+tps/ACEH.csv >>
+712,1,1425426
+ALL GOOD, MARKING 712 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=713
+tps/ACEH.csv >>
+713,1,1425410
+ALL GOOD, MARKING 713 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=714
+tps/ACEH.csv >>
+714,1,1425411
+ALL GOOD, MARKING 714 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=715
+tps/ACEH.csv >>
+715,1,1425419
+ALL GOOD, MARKING 715 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=716
+tps/ACEH.csv >>
+716,1,1425418
+ALL GOOD, MARKING 716 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=717
+tps/ACEH.csv >>
+717,1,1425465
+717,2,1425466
+ALL GOOD, MARKING 717 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=719
+tps/ACEH.csv >>
+719,1,1430500
+ALL GOOD, MARKING 719 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=720
+tps/ACEH.csv >>
+720,1,1430496
+720,2,1430497
+ALL GOOD, MARKING 720 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=721
+tps/ACEH.csv >>
+721,1,1430629
+ALL GOOD, MARKING 721 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=722
+tps/ACEH.csv >>
+722,1,1461787
+ALL GOOD, MARKING 722 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=723
+tps/ACEH.csv >>
+723,1,1430552
+ALL GOOD, MARKING 723 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=724
+tps/ACEH.csv >>
+724,1,1495863
+ALL GOOD, MARKING 724 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=725
+tps/ACEH.csv >>
+725,1,1495849
+ALL GOOD, MARKING 725 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=726
+tps/ACEH.csv >>
+726,1,1430501
+ALL GOOD, MARKING 726 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=727
+tps/ACEH.csv >>
+727,1,1495813
+ALL GOOD, MARKING 727 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=728
+tps/ACEH.csv >>
+728,1,1495892
+ALL GOOD, MARKING 728 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=729
+tps/ACEH.csv >>
+729,1,1489432
+ALL GOOD, MARKING 729 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=730
+tps/ACEH.csv >>
+730,1,1430565
+730,2,1430566
+ALL GOOD, MARKING 730 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=731
+tps/ACEH.csv >>
+731,1,1461794
+ALL GOOD, MARKING 731 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=732
+tps/ACEH.csv >>
+732,1,1461797
+ALL GOOD, MARKING 732 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=733
+tps/ACEH.csv >>
+733,1,1461784
+ALL GOOD, MARKING 733 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=734
+tps/ACEH.csv >>
+734,1,1489919
+734,2,1489920
+ALL GOOD, MARKING 734 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=735
+tps/ACEH.csv >>
+735,1,1489734
+ALL GOOD, MARKING 735 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=736
+tps/ACEH.csv >>
+736,1,1461788
+ALL GOOD, MARKING 736 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=737
+tps/ACEH.csv >>
+737,1,1430546
+737,2,1430547
+737,3,1430548
+ALL GOOD, MARKING 737 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=738
+tps/ACEH.csv >>
+738,1,1430507
+738,2,1430508
+738,3,1430509
+ALL GOOD, MARKING 738 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=739
+tps/ACEH.csv >>
+739,1,1430504
+739,2,1430505
+ALL GOOD, MARKING 739 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=740
+tps/ACEH.csv >>
+740,1,1461799
+ALL GOOD, MARKING 740 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=741
+tps/ACEH.csv >>
+741,1,1430569
+ALL GOOD, MARKING 741 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=742
+tps/ACEH.csv >>
+742,1,1430554
+ALL GOOD, MARKING 742 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=743
+tps/ACEH.csv >>
+743,1,1430632
+743,2,1430633
+ALL GOOD, MARKING 743 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=744
+tps/ACEH.csv >>
+744,1,1430560
+ALL GOOD, MARKING 744 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=745
+tps/ACEH.csv >>
+745,1,1495920
+ALL GOOD, MARKING 745 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=746
+tps/ACEH.csv >>
+746,1,1461789
+ALL GOOD, MARKING 746 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=747
+tps/ACEH.csv >>
+747,1,1495961
+ALL GOOD, MARKING 747 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=748
+tps/ACEH.csv >>
+748,1,1430557
+ALL GOOD, MARKING 748 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=749
+tps/ACEH.csv >>
+749,1,1495830
+ALL GOOD, MARKING 749 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=750
+tps/ACEH.csv >>
+750,1,1432671
+ALL GOOD, MARKING 750 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=751
+tps/ACEH.csv >>
+751,1,1430493
+751,2,1430494
+ALL GOOD, MARKING 751 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=752
+tps/ACEH.csv >>
+752,1,1461791
+ALL GOOD, MARKING 752 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=753
+tps/ACEH.csv >>
+753,1,1430551
+ALL GOOD, MARKING 753 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=754
+tps/ACEH.csv >>
+754,1,1489473
+754,2,1489474
+ALL GOOD, MARKING 754 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=755
+tps/ACEH.csv >>
+755,1,1495864
+ALL GOOD, MARKING 755 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=757
+tps/ACEH.csv >>
+757,1,1431257
+757,2,1431258
+757,3,1431259
+757,4,1431260
+757,5,1431261
+ALL GOOD, MARKING 757 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=758
+tps/ACEH.csv >>
+758,1,1431272
+758,2,1431273
+ALL GOOD, MARKING 758 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=759
+tps/ACEH.csv >>
+759,1,1431453
+759,2,1431454
+759,3,1431455
+759,4,1431456
+759,5,1431457
+759,6,1431458
+759,7,1431459
+ALL GOOD, MARKING 759 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=760
+tps/ACEH.csv >>
+760,1,1431279
+760,2,1431280
+ALL GOOD, MARKING 760 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=761
+tps/ACEH.csv >>
+761,1,1431248
+761,2,1431249
+761,3,1431250
+ALL GOOD, MARKING 761 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=762
+tps/ACEH.csv >>
+762,1,1431285
+762,2,1431286
+ALL GOOD, MARKING 762 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=763
+tps/ACEH.csv >>
+763,1,1431266
+ALL GOOD, MARKING 763 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=764
+tps/ACEH.csv >>
+764,1,1431229
+764,2,1431230
+764,3,1431231
+ALL GOOD, MARKING 764 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=765
+tps/ACEH.csv >>
+765,1,1431289
+ALL GOOD, MARKING 765 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=766
+tps/ACEH.csv >>
+766,1,1431228
+ALL GOOD, MARKING 766 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=767
+tps/ACEH.csv >>
+767,1,1431274
+767,2,1431275
+ALL GOOD, MARKING 767 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=768
+tps/ACEH.csv >>
+768,1,1431440
+768,2,1431441
+768,3,1431442
+ALL GOOD, MARKING 768 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=769
+tps/ACEH.csv >>
+769,1,1431277
+ALL GOOD, MARKING 769 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=770
+tps/ACEH.csv >>
+770,1,1431269
+770,2,1431270
+ALL GOOD, MARKING 770 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=771
+tps/ACEH.csv >>
+771,1,1431439
+ALL GOOD, MARKING 771 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=772
+tps/ACEH.csv >>
+772,1,1431468
+ALL GOOD, MARKING 772 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=773
+tps/ACEH.csv >>
+773,1,1431451
+ALL GOOD, MARKING 773 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=774
+tps/ACEH.csv >>
+774,1,1431225
+ALL GOOD, MARKING 774 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=775
+tps/ACEH.csv >>
+775,1,1431227
+ALL GOOD, MARKING 775 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=776
+tps/ACEH.csv >>
+776,1,1431469
+ALL GOOD, MARKING 776 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=777
+tps/ACEH.csv >>
+777,1,1431233
+ALL GOOD, MARKING 777 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=778
+tps/ACEH.csv >>
+778,1,1431238
+ALL GOOD, MARKING 778 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=779
+
+Fatal error: Call to a member function xpath() on a non-object in /workspace/ceksuara/child.php on line 22
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=780
+tps/ACEH.csv >>
+780,1,1431466
+ALL GOOD, MARKING 780 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=781
+tps/ACEH.csv >>
+781,1,1431237
+ALL GOOD, MARKING 781 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=782
+tps/ACEH.csv >>
+782,1,1431239
+ALL GOOD, MARKING 782 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=783
+tps/ACEH.csv >>
+783,1,1431236
+ALL GOOD, MARKING 783 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=784
+tps/ACEH.csv >>
+784,1,1431450
+ALL GOOD, MARKING 784 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=785
+tps/ACEH.csv >>
+785,1,1431449
+ALL GOOD, MARKING 785 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=786
+tps/ACEH.csv >>
+786,1,1431438
+ALL GOOD, MARKING 786 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=787
+tps/ACEH.csv >>
+787,1,1431241
+ALL GOOD, MARKING 787 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=788
+tps/ACEH.csv >>
+788,1,1431268
+ALL GOOD, MARKING 788 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=789
+tps/ACEH.csv >>
+789,1,1431251
+789,2,1431252
+ALL GOOD, MARKING 789 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=790
+tps/ACEH.csv >>
+790,1,1431444
+ALL GOOD, MARKING 790 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=791
+tps/ACEH.csv >>
+791,1,1431288
+ALL GOOD, MARKING 791 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=793
+tps/ACEH.csv >>
+793,1,1404933
+793,2,1404934
+793,3,1404935
+ALL GOOD, MARKING 793 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=794
+tps/ACEH.csv >>
+794,1,1361021
+794,2,1361022
+ALL GOOD, MARKING 794 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=795
+tps/ACEH.csv >>
+795,1,1205725
+ALL GOOD, MARKING 795 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=796
+tps/ACEH.csv >>
+796,1,1379360
+796,2,1379361
+ALL GOOD, MARKING 796 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=797
+tps/ACEH.csv >>
+797,1,1393841
+ALL GOOD, MARKING 797 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=798
+tps/ACEH.csv >>
+798,1,1205747
+ALL GOOD, MARKING 798 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=799
+tps/ACEH.csv >>
+799,1,1410639
+ALL GOOD, MARKING 799 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=800
+tps/ACEH.csv >>
+800,1,1410675
+ALL GOOD, MARKING 800 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=801
+tps/ACEH.csv >>
+801,1,1352963
+ALL GOOD, MARKING 801 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=802
+tps/ACEH.csv >>
+802,1,1393751
+802,2,1393752
+802,3,1393753
+802,4,1393754
+ALL GOOD, MARKING 802 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=803
+tps/ACEH.csv >>
+803,1,1410673
+ALL GOOD, MARKING 803 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=804
+tps/ACEH.csv >>
+804,1,1375317
+ALL GOOD, MARKING 804 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=805
+tps/ACEH.csv >>
+805,1,1410674
+ALL GOOD, MARKING 805 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=806
+tps/ACEH.csv >>
+806,1,1410660
+806,2,1410661
+806,3,1410662
+ALL GOOD, MARKING 806 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=807
+tps/ACEH.csv >>
+807,1,1410669
+ALL GOOD, MARKING 807 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=808
+tps/ACEH.csv >>
+808,1,1410671
+ALL GOOD, MARKING 808 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=809
+tps/ACEH.csv >>
+809,1,1408104
+809,2,1408105
+ALL GOOD, MARKING 809 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=810
+tps/ACEH.csv >>
+810,1,1393814
+810,2,1393815
+ALL GOOD, MARKING 810 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=811
+tps/ACEH.csv >>
+811,1,1393793
+811,2,1393794
+ALL GOOD, MARKING 811 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=812
+tps/ACEH.csv >>
+812,1,1375682
+ALL GOOD, MARKING 812 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=813
+tps/ACEH.csv >>
+813,1,1378224
+ALL GOOD, MARKING 813 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=814
+tps/ACEH.csv >>
+814,1,1393858
+814,2,1393859
+814,3,1393860
+ALL GOOD, MARKING 814 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=815
+tps/ACEH.csv >>
+815,1,1361059
+ALL GOOD, MARKING 815 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=816
+tps/ACEH.csv >>
+816,1,1375199
+ALL GOOD, MARKING 816 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=817
+tps/ACEH.csv >>
+817,1,1391341
+817,2,1391342
+817,3,1391343
+817,4,1391344
+ALL GOOD, MARKING 817 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=818
+tps/ACEH.csv >>
+818,1,1410641
+ALL GOOD, MARKING 818 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=819
+tps/ACEH.csv >>
+819,1,1375485
+819,2,1375486
+ALL GOOD, MARKING 819 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=821
+tps/ACEH.csv >>
+821,1,1396167
+ALL GOOD, MARKING 821 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=822
+tps/ACEH.csv >>
+822,1,1396193
+ALL GOOD, MARKING 822 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=823
+tps/ACEH.csv >>
+823,1,1396195
+ALL GOOD, MARKING 823 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=824
+tps/ACEH.csv >>
+824,1,1396159
+ALL GOOD, MARKING 824 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=825
+tps/ACEH.csv >>
+825,1,1396196
+ALL GOOD, MARKING 825 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=826
+tps/ACEH.csv >>
+826,1,1396170
+ALL GOOD, MARKING 826 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=827
+tps/ACEH.csv >>
+827,1,1396136
+ALL GOOD, MARKING 827 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=828
+tps/ACEH.csv >>
+828,1,1396168
+ALL GOOD, MARKING 828 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=829
+tps/ACEH.csv >>
+829,1,1396181
+ALL GOOD, MARKING 829 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=830
+tps/ACEH.csv >>
+830,1,1396189
+ALL GOOD, MARKING 830 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=831
+tps/ACEH.csv >>
+831,1,1396211
+ALL GOOD, MARKING 831 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=832
+tps/ACEH.csv >>
+832,1,1396113
+832,2,1396114
+832,3,1681949
+ALL GOOD, MARKING 832 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=833
+tps/ACEH.csv >>
+833,1,1396183
+ALL GOOD, MARKING 833 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=834
+tps/ACEH.csv >>
+834,1,1396186
+ALL GOOD, MARKING 834 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=835
+tps/ACEH.csv >>
+835,1,1396169
+ALL GOOD, MARKING 835 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=836
+tps/ACEH.csv >>
+836,1,1396180
+ALL GOOD, MARKING 836 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=837
+tps/ACEH.csv >>
+837,1,1396104
+ALL GOOD, MARKING 837 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=839
+tps/ACEH.csv >>
+839,1,1430760
+ALL GOOD, MARKING 839 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=840
+tps/ACEH.csv >>
+840,1,1430751
+ALL GOOD, MARKING 840 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=841
+tps/ACEH.csv >>
+841,1,1430716
+ALL GOOD, MARKING 841 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=842
+tps/ACEH.csv >>
+842,1,1430717
+ALL GOOD, MARKING 842 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=843
+tps/ACEH.csv >>
+843,1,1430771
+ALL GOOD, MARKING 843 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=844
+tps/ACEH.csv >>
+844,1,1430787
+844,2,1430788
+ALL GOOD, MARKING 844 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=845
+tps/ACEH.csv >>
+845,1,1430765
+845,2,1430766
+ALL GOOD, MARKING 845 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=846
+tps/ACEH.csv >>
+846,1,1430761
+ALL GOOD, MARKING 846 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=847
+tps/ACEH.csv >>
+847,1,1430776
+847,2,1430777
+ALL GOOD, MARKING 847 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=848
+tps/ACEH.csv >>
+848,1,1430772
+ALL GOOD, MARKING 848 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=849
+tps/ACEH.csv >>
+849,1,1430780
+ALL GOOD, MARKING 849 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=850
+tps/ACEH.csv >>
+850,1,1430719
+ALL GOOD, MARKING 850 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=851
+tps/ACEH.csv >>
+851,1,1430784
+ALL GOOD, MARKING 851 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=852
+tps/ACEH.csv >>
+852,1,1430726
+ALL GOOD, MARKING 852 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=853
+tps/ACEH.csv >>
+853,1,1430781
+ALL GOOD, MARKING 853 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=854
+tps/ACEH.csv >>
+854,1,1430747
+ALL GOOD, MARKING 854 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=855
+tps/ACEH.csv >>
+855,1,1430779
+ALL GOOD, MARKING 855 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=856
+tps/ACEH.csv >>
+856,1,1430783
+ALL GOOD, MARKING 856 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=857
+tps/ACEH.csv >>
+857,1,1430770
+ALL GOOD, MARKING 857 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=858
+tps/ACEH.csv >>
+858,1,1430775
+ALL GOOD, MARKING 858 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=859
+tps/ACEH.csv >>
+859,1,1430764
+ALL GOOD, MARKING 859 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=860
+tps/ACEH.csv >>
+860,1,1430732
+ALL GOOD, MARKING 860 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=861
+tps/ACEH.csv >>
+861,1,1430729
+ALL GOOD, MARKING 861 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=862
+tps/ACEH.csv >>
+862,1,1430744
+ALL GOOD, MARKING 862 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=863
+tps/ACEH.csv >>
+863,1,1430785
+ALL GOOD, MARKING 863 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=864
+tps/ACEH.csv >>
+864,1,1430757
+864,3,1430759
+ALL GOOD, MARKING 864 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=865
+tps/ACEH.csv >>
+865,1,1430714
+ALL GOOD, MARKING 865 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=866
+tps/ACEH.csv >>
+866,1,1430755
+866,2,1430756
+ALL GOOD, MARKING 866 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=867
+tps/ACEH.csv >>
+867,1,1430721
+ALL GOOD, MARKING 867 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=868
+tps/ACEH.csv >>
+868,1,1430748
+ALL GOOD, MARKING 868 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=869
+tps/ACEH.csv >>
+869,1,1430786
+ALL GOOD, MARKING 869 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=871
+tps/ACEH.csv >>
+871,1,1435205
+871,2,1435206
+871,3,1435207
+871,4,1435208
+ALL GOOD, MARKING 871 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=872
+tps/ACEH.csv >>
+872,1,1437227
+872,2,1437228
+872,3,1437229
+ALL GOOD, MARKING 872 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=873
+tps/ACEH.csv >>
+873,1,1434812
+ALL GOOD, MARKING 873 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=874
+tps/ACEH.csv >>
+874,1,1434822
+874,2,1434823
+874,3,1434824
+ALL GOOD, MARKING 874 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=875
+tps/ACEH.csv >>
+875,1,1437233
+ALL GOOD, MARKING 875 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=876
+tps/ACEH.csv >>
+876,1,1437083
+ALL GOOD, MARKING 876 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=877
+tps/ACEH.csv >>
+877,1,1430722
+ALL GOOD, MARKING 877 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=878
+tps/ACEH.csv >>
+878,1,1430774
+ALL GOOD, MARKING 878 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=879
+tps/ACEH.csv >>
+879,1,1434816
+ALL GOOD, MARKING 879 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=880
+tps/ACEH.csv >>
+880,1,1435222
+880,2,1435223
+880,3,1435224
+ALL GOOD, MARKING 880 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=881
+tps/ACEH.csv >>
+881,1,1437091
+881,2,1437092
+ALL GOOD, MARKING 881 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=882
+tps/ACEH.csv >>
+882,1,1434828
+882,2,1434829
+882,3,1434830
+882,4,1434831
+882,5,1434832
+ALL GOOD, MARKING 882 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=883
+tps/ACEH.csv >>
+883,1,1430753
+883,2,1430754
+ALL GOOD, MARKING 883 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=884
+tps/ACEH.csv >>
+884,1,1430749
+ALL GOOD, MARKING 884 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=885
+tps/ACEH.csv >>
+885,1,1437226
+ALL GOOD, MARKING 885 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=886
+tps/ACEH.csv >>
+886,1,1430745
+ALL GOOD, MARKING 886 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=887
+tps/ACEH.csv >>
+887,1,1430762
+887,2,1430763
+ALL GOOD, MARKING 887 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=888
+tps/ACEH.csv >>
+888,1,1434678
+ALL GOOD, MARKING 888 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=889
+tps/ACEH.csv >>
+889,1,1434814
+ALL GOOD, MARKING 889 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=890
+tps/ACEH.csv >>
+890,1,1434820
+890,2,1434821
+ALL GOOD, MARKING 890 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=891
+tps/ACEH.csv >>
+891,1,1430730
+ALL GOOD, MARKING 891 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=892
+tps/ACEH.csv >>
+892,1,1430723
+892,2,1430724
+892,3,1430725
+ALL GOOD, MARKING 892 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=893
+tps/ACEH.csv >>
+893,1,1437214
+893,2,1437215
+ALL GOOD, MARKING 893 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=894
+tps/ACEH.csv >>
+894,1,1437210
+894,2,1437211
+ALL GOOD, MARKING 894 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=895
+tps/ACEH.csv >>
+895,1,1437217
+895,2,1437218
+ALL GOOD, MARKING 895 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=896
+tps/ACEH.csv >>
+896,1,1434757
+896,2,1434758
+ALL GOOD, MARKING 896 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=897
+tps/ACEH.csv >>
+897,1,1435191
+ALL GOOD, MARKING 897 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=898
+tps/ACEH.csv >>
+898,1,1435166
+898,2,1435167
+898,3,1435168
+ALL GOOD, MARKING 898 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=899
+tps/ACEH.csv >>
+899,1,1434430
+899,2,1434431
+ALL GOOD, MARKING 899 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=900
+tps/ACEH.csv >>
+900,1,1435221
+ALL GOOD, MARKING 900 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=901
+tps/ACEH.csv >>
+901,1,1434475
+901,2,1434476
+ALL GOOD, MARKING 901 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=902
+tps/ACEH.csv >>
+902,1,1435229
+902,2,1435230
+ALL GOOD, MARKING 902 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=903
+tps/ACEH.csv >>
+903,1,1430778
+ALL GOOD, MARKING 903 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=904
+tps/ACEH.csv >>
+904,1,1430767
+904,2,1430768
+904,3,1430769
+ALL GOOD, MARKING 904 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=905
+tps/ACEH.csv >>
+905,1,1435192
+905,2,1435193
+ALL GOOD, MARKING 905 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=906
+tps/ACEH.csv >>
+906,1,1434503
+906,2,1434504
+ALL GOOD, MARKING 906 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=907
+tps/ACEH.csv >>
+907,1,1430727
+ALL GOOD, MARKING 907 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=908
+tps/ACEH.csv >>
+908,1,1434541
+908,2,1434542
+ALL GOOD, MARKING 908 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=910
+tps/ACEH.csv >>
+910,1,1411690
+910,2,1411691
+910,3,1411692
+910,4,1411693
+ALL GOOD, MARKING 910 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=911
+tps/ACEH.csv >>
+911,1,1411711
+911,2,1411712
+911,3,1411713
+911,4,1411714
+ALL GOOD, MARKING 911 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=912
+tps/ACEH.csv >>
+912,1,1411137
+912,2,1411138
+ALL GOOD, MARKING 912 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=913
+tps/ACEH.csv >>
+913,1,1411079
+ALL GOOD, MARKING 913 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=914
+tps/ACEH.csv >>
+914,1,1412329
+ALL GOOD, MARKING 914 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=915
+tps/ACEH.csv >>
+915,1,1411156
+ALL GOOD, MARKING 915 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=916
+tps/ACEH.csv >>
+916,1,1411734
+ALL GOOD, MARKING 916 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=917
+tps/ACEH.csv >>
+917,1,1411710
+ALL GOOD, MARKING 917 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=918
+tps/ACEH.csv >>
+918,1,1412460
+ALL GOOD, MARKING 918 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=919
+tps/ACEH.csv >>
+919,1,1412457
+ALL GOOD, MARKING 919 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=920
+tps/ACEH.csv >>
+920,1,1411092
+ALL GOOD, MARKING 920 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=921
+tps/ACEH.csv >>
+921,1,1411026
+921,2,1411027
+ALL GOOD, MARKING 921 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=922
+tps/ACEH.csv >>
+922,1,1411735
+ALL GOOD, MARKING 922 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=923
+tps/ACEH.csv >>
+923,1,1411160
+ALL GOOD, MARKING 923 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=925
+tps/ACEH.csv >>
+925,1,1429614
+925,2,1429615
+ALL GOOD, MARKING 925 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=926
+tps/ACEH.csv >>
+926,1,1429613
+ALL GOOD, MARKING 926 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=927
+tps/ACEH.csv >>
+927,1,1429587
+927,2,1429588
+ALL GOOD, MARKING 927 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=928
+tps/ACEH.csv >>
+928,1,1429586
+ALL GOOD, MARKING 928 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=929
+tps/ACEH.csv >>
+929,1,1430470
+929,2,1430471
+ALL GOOD, MARKING 929 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=930
+tps/ACEH.csv >>
+930,1,1429610
+ALL GOOD, MARKING 930 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=931
+tps/ACEH.csv >>
+931,1,1429608
+931,2,1429609
+ALL GOOD, MARKING 931 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=932
+tps/ACEH.csv >>
+932,1,1429595
+932,2,1429596
+ALL GOOD, MARKING 932 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=933
+tps/ACEH.csv >>
+933,1,1429591
+933,2,1429592
+933,3,1429593
+ALL GOOD, MARKING 933 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=934
+tps/ACEH.csv >>
+934,1,1429612
+ALL GOOD, MARKING 934 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=935
+tps/ACEH.csv >>
+935,1,1429589
+ALL GOOD, MARKING 935 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=936
+tps/ACEH.csv >>
+936,1,1430461
+936,2,1430462
+ALL GOOD, MARKING 936 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=937
+tps/ACEH.csv >>
+937,1,1429600
+937,2,1429601
+ALL GOOD, MARKING 937 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=938
+tps/ACEH.csv >>
+938,1,1429603
+ALL GOOD, MARKING 938 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=939
+tps/ACEH.csv >>
+939,1,1429604
+939,2,1429605
+ALL GOOD, MARKING 939 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=940
+tps/ACEH.csv >>
+940,1,1429606
+ALL GOOD, MARKING 940 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=941
+tps/ACEH.csv >>
+941,1,1430476
+941,2,1430477
+ALL GOOD, MARKING 941 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=942
+tps/ACEH.csv >>
+942,1,1430488
+ALL GOOD, MARKING 942 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=943
+tps/ACEH.csv >>
+943,1,1430464
+ALL GOOD, MARKING 943 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=944
+tps/ACEH.csv >>
+944,1,1430460
+ALL GOOD, MARKING 944 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=945
+tps/ACEH.csv >>
+945,1,1429590
+ALL GOOD, MARKING 945 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=946
+tps/ACEH.csv >>
+946,1,1429598
+946,2,1429599
+ALL GOOD, MARKING 946 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=947
+tps/ACEH.csv >>
+947,1,1429611
+ALL GOOD, MARKING 947 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=949
+tps/ACEH.csv >>
+949,1,1432554
+ALL GOOD, MARKING 949 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=950
+tps/ACEH.csv >>
+950,1,1432639
+ALL GOOD, MARKING 950 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=951
+tps/ACEH.csv >>
+951,1,1432630
+ALL GOOD, MARKING 951 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=952
+tps/ACEH.csv >>
+952,1,1432557
+ALL GOOD, MARKING 952 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=953
+tps/ACEH.csv >>
+953,1,1431476
+ALL GOOD, MARKING 953 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=954
+tps/ACEH.csv >>
+954,1,1432638
+ALL GOOD, MARKING 954 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=955
+tps/ACEH.csv >>
+955,1,1432561
+ALL GOOD, MARKING 955 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=956
+tps/ACEH.csv >>
+956,1,1431474
+956,2,1431475
+ALL GOOD, MARKING 956 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=957
+tps/ACEH.csv >>
+957,1,1432548
+957,2,1432549
+ALL GOOD, MARKING 957 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=958
+tps/ACEH.csv >>
+958,1,1431447
+ALL GOOD, MARKING 958 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=959
+tps/ACEH.csv >>
+959,1,1431477
+959,2,1431478
+959,3,1431479
+ALL GOOD, MARKING 959 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=960
+tps/ACEH.csv >>
+960,1,1432546
+960,2,1432547
+ALL GOOD, MARKING 960 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=961
+tps/ACEH.csv >>
+961,1,1431470
+ALL GOOD, MARKING 961 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=962
+tps/ACEH.csv >>
+962,1,1432580
+962,2,1432581
+ALL GOOD, MARKING 962 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=963
+tps/ACEH.csv >>
+963,1,1432558
+963,2,1432559
+ALL GOOD, MARKING 963 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=964
+tps/ACEH.csv >>
+964,1,1432550
+964,2,1432551
+964,3,1432552
+964,4,1432553
+ALL GOOD, MARKING 964 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=965
+tps/ACEH.csv >>
+965,1,1432640
+965,2,1432641
+ALL GOOD, MARKING 965 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=966
+tps/ACEH.csv >>
+966,1,1432544
+966,2,1432545
+ALL GOOD, MARKING 966 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=967
+tps/ACEH.csv >>
+967,1,1431462
+967,2,1431463
+967,3,1431464
+967,4,1431465
+ALL GOOD, MARKING 967 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=968
+tps/ACEH.csv >>
+968,1,1432556
+ALL GOOD, MARKING 968 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=969
+tps/ACEH.csv >>
+969,1,1431446
+ALL GOOD, MARKING 969 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=970
+tps/ACEH.csv >>
+970,1,1431472
+970,2,1431473
+ALL GOOD, MARKING 970 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=971
+tps/ACEH.csv >>
+971,1,1432621
+971,2,1432622
+971,3,1432623
+971,4,1432624
+971,5,1432625
+971,6,1432626
+ALL GOOD, MARKING 971 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=973
+tps/ACEH.csv >>
+973,1,1738113
+973,2,1738114
+973,3,1738115
+973,4,1738116
+973,5,1738117
+ALL GOOD, MARKING 973 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=974
+tps/ACEH.csv >>
+974,1,1429585
+ALL GOOD, MARKING 974 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=975
+tps/ACEH.csv >>
+975,1,1429510
+975,2,1429511
+ALL GOOD, MARKING 975 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=976
+tps/ACEH.csv >>
+976,1,1429571
+976,2,1429572
+ALL GOOD, MARKING 976 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=977
+tps/ACEH.csv >>
+977,1,1429456
+977,2,1429457
+ALL GOOD, MARKING 977 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=978
+tps/ACEH.csv >>
+978,1,1429584
+ALL GOOD, MARKING 978 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=979
+tps/ACEH.csv >>
+979,1,1429583
+ALL GOOD, MARKING 979 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=980
+tps/ACEH.csv >>
+980,1,1429484
+ALL GOOD, MARKING 980 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=981
+tps/ACEH.csv >>
+981,1,1429481
+981,2,1429482
+981,3,1429483
+ALL GOOD, MARKING 981 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=982
+tps/ACEH.csv >>
+982,1,1429507
+ALL GOOD, MARKING 982 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=983
+tps/ACEH.csv >>
+983,1,1429502
+983,2,1429503
+983,3,1429504
+ALL GOOD, MARKING 983 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=984
+tps/ACEH.csv >>
+984,1,1429490
+ALL GOOD, MARKING 984 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=985
+tps/ACEH.csv >>
+985,1,1429494
+ALL GOOD, MARKING 985 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=986
+tps/ACEH.csv >>
+986,1,1429487
+ALL GOOD, MARKING 986 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=987
+tps/ACEH.csv >>
+987,1,1429492
+987,2,1429493
+ALL GOOD, MARKING 987 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=988
+tps/ACEH.csv >>
+988,1,1429499
+988,2,1429500
+988,3,1429501
+ALL GOOD, MARKING 988 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=989
+tps/ACEH.csv >>
+989,1,1429512
+ALL GOOD, MARKING 989 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=990
+tps/ACEH.csv >>
+990,1,1429576
+990,2,1429577
+990,3,1429578
+ALL GOOD, MARKING 990 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=991
+tps/ACEH.csv >>
+991,1,1429574
+ALL GOOD, MARKING 991 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=992
+tps/ACEH.csv >>
+992,1,1429575
+ALL GOOD, MARKING 992 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=993
+tps/ACEH.csv >>
+993,1,1429497
+993,2,1429498
+ALL GOOD, MARKING 993 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=994
+tps/ACEH.csv >>
+994,1,1429580
+994,2,1429581
+ALL GOOD, MARKING 994 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=995
+tps/ACEH.csv >>
+995,1,1429579
+ALL GOOD, MARKING 995 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=997
+tps/ACEH.csv >>
+997,1,1428110
+997,2,1428111
+ALL GOOD, MARKING 997 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=998
+tps/ACEH.csv >>
+998,1,1428119
+ALL GOOD, MARKING 998 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=999
+tps/ACEH.csv >>
+999,1,1782944
+ALL GOOD, MARKING 999 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1000
+tps/ACEH.csv >>
+1000,1,1428118
+ALL GOOD, MARKING 1000 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1001
+tps/ACEH.csv >>
+1001,1,1428144
+1001,2,1428145
+ALL GOOD, MARKING 1001 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1002
+tps/ACEH.csv >>
+1002,1,1428103
+ALL GOOD, MARKING 1002 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1003
+tps/ACEH.csv >>
+1003,1,1428113
+1003,2,1428114
+ALL GOOD, MARKING 1003 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1004
+tps/ACEH.csv >>
+1004,1,1428129
+1004,2,1428130
+ALL GOOD, MARKING 1004 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1005
+tps/ACEH.csv >>
+1005,1,1428122
+1005,2,1428123
+ALL GOOD, MARKING 1005 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1006
+tps/ACEH.csv >>
+1006,1,1428125
+ALL GOOD, MARKING 1006 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1007
+tps/ACEH.csv >>
+1007,1,1428104
+ALL GOOD, MARKING 1007 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1008
+tps/ACEH.csv >>
+1008,1,1428105
+ALL GOOD, MARKING 1008 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1009
+tps/ACEH.csv >>
+1009,1,1428131
+1009,2,1428132
+ALL GOOD, MARKING 1009 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1010
+tps/ACEH.csv >>
+1010,1,1428092
+1010,2,1428093
+ALL GOOD, MARKING 1010 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1011
+tps/ACEH.csv >>
+1011,1,1428136
+ALL GOOD, MARKING 1011 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1012
+tps/ACEH.csv >>
+1012,1,1428140
+ALL GOOD, MARKING 1012 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1013
+tps/ACEH.csv >>
+1013,1,1428115
+ALL GOOD, MARKING 1013 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1014
+tps/ACEH.csv >>
+1014,1,1428133
+1014,2,1428134
+ALL GOOD, MARKING 1014 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1015
+tps/ACEH.csv >>
+1015,1,1428141
+1015,2,1428142
+1015,3,1428143
+ALL GOOD, MARKING 1015 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1016
+tps/ACEH.csv >>
+1016,1,1428127
+1016,2,1428128
+ALL GOOD, MARKING 1016 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1017
+tps/ACEH.csv >>
+1017,1,1428100
+1017,2,1428101
+ALL GOOD, MARKING 1017 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1018
+tps/ACEH.csv >>
+1018,1,1428094
+1018,2,1428095
+1018,3,1428096
+ALL GOOD, MARKING 1018 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1019
+tps/ACEH.csv >>
+1019,1,1428137
+1019,2,1428138
+ALL GOOD, MARKING 1019 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1020
+tps/ACEH.csv >>
+1020,1,1428097
+1020,2,1428098
+ALL GOOD, MARKING 1020 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1021
+tps/ACEH.csv >>
+1021,1,1428121
+ALL GOOD, MARKING 1021 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1022
+tps/ACEH.csv >>
+1022,1,1428106
+1022,2,1428107
+1022,3,1428108
+ALL GOOD, MARKING 1022 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1024
+tps/ACEH.csv >>
+1024,1,1431218
+1024,2,1431219
+ALL GOOD, MARKING 1024 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1025
+tps/ACEH.csv >>
+1025,1,1431158
+1025,2,1431159
+ALL GOOD, MARKING 1025 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1026
+tps/ACEH.csv >>
+1026,1,1431181
+1026,2,1431182
+1026,3,1431183
+1026,4,1681659
+ALL GOOD, MARKING 1026 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1027
+tps/ACEH.csv >>
+1027,1,1431178
+ALL GOOD, MARKING 1027 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1028
+tps/ACEH.csv >>
+1028,1,1431175
+1028,2,1431176
+ALL GOOD, MARKING 1028 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1029
+tps/ACEH.csv >>
+1029,1,1431160
+1029,2,1431161
+1029,3,1431162
+ALL GOOD, MARKING 1029 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1030
+tps/ACEH.csv >>
+1030,1,1431222
+ALL GOOD, MARKING 1030 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1031
+tps/ACEH.csv >>
+1031,1,1431188
+1031,2,1431189
+ALL GOOD, MARKING 1031 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1032
+tps/ACEH.csv >>
+1032,1,1431191
+1032,2,1431192
+1032,3,1431193
+1032,4,1431194
+ALL GOOD, MARKING 1032 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1033
+tps/ACEH.csv >>
+1033,1,1431220
+1033,2,1431221
+ALL GOOD, MARKING 1033 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1034
+tps/ACEH.csv >>
+1034,1,1431201
+1034,2,1431202
+1034,3,1431203
+ALL GOOD, MARKING 1034 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1035
+tps/ACEH.csv >>
+1035,1,1431204
+1035,2,1431205
+ALL GOOD, MARKING 1035 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1036
+tps/ACEH.csv >>
+1036,1,1431206
+1036,2,1431207
+1036,3,1431208
+1036,4,1431209
+ALL GOOD, MARKING 1036 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1038
+tps/ACEH.csv >>
+1038,1,1412628
+ALL GOOD, MARKING 1038 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1039
+tps/ACEH.csv >>
+1039,1,1412627
+ALL GOOD, MARKING 1039 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1040
+tps/ACEH.csv >>
+1040,1,1412678
+ALL GOOD, MARKING 1040 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1041
+tps/ACEH.csv >>
+1041,1,1412694
+ALL GOOD, MARKING 1041 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1042
+tps/ACEH.csv >>
+1042,1,1412695
+ALL GOOD, MARKING 1042 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1043
+tps/ACEH.csv >>
+1043,1,1412584
+ALL GOOD, MARKING 1043 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1044
+tps/ACEH.csv >>
+1044,1,1412585
+ALL GOOD, MARKING 1044 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1045
+tps/ACEH.csv >>
+1045,1,1412615
+ALL GOOD, MARKING 1045 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1046
+tps/ACEH.csv >>
+1046,1,1412618
+ALL GOOD, MARKING 1046 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1047
+tps/ACEH.csv >>
+1047,1,1412626
+ALL GOOD, MARKING 1047 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1048
+tps/ACEH.csv >>
+1048,1,1412617
+ALL GOOD, MARKING 1048 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1049
+tps/ACEH.csv >>
+1049,1,1412576
+1049,2,1412577
+ALL GOOD, MARKING 1049 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1050
+tps/ACEH.csv >>
+1050,1,1412573
+ALL GOOD, MARKING 1050 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1051
+tps/ACEH.csv >>
+1051,1,1412564
+ALL GOOD, MARKING 1051 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1052
+tps/ACEH.csv >>
+1052,1,1412539
+ALL GOOD, MARKING 1052 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1053
+tps/ACEH.csv >>
+1053,1,1412540
+ALL GOOD, MARKING 1053 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1054
+tps/ACEH.csv >>
+1054,1,1412542
+ALL GOOD, MARKING 1054 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1055
+tps/ACEH.csv >>
+1055,1,1412629
+ALL GOOD, MARKING 1055 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1056
+tps/ACEH.csv >>
+1056,1,1412672
+ALL GOOD, MARKING 1056 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1057
+tps/ACEH.csv >>
+1057,1,1412544
+ALL GOOD, MARKING 1057 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1058
+tps/ACEH.csv >>
+1058,1,1412563
+ALL GOOD, MARKING 1058 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1059
+tps/ACEH.csv >>
+1059,1,1412575
+ALL GOOD, MARKING 1059 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1060
+tps/ACEH.csv >>
+1060,1,1412693
+ALL GOOD, MARKING 1060 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1061
+tps/ACEH.csv >>
+1061,1,1412676
+ALL GOOD, MARKING 1061 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1062
+tps/ACEH.csv >>
+1062,1,1412671
+ALL GOOD, MARKING 1062 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1064
+tps/ACEH.csv >>
+1064,1,1339009
+ALL GOOD, MARKING 1064 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1065
+tps/ACEH.csv >>
+1065,1,1339126
+ALL GOOD, MARKING 1065 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1066
+tps/ACEH.csv >>
+1066,1,1349917
+ALL GOOD, MARKING 1066 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1067
+tps/ACEH.csv >>
+1067,1,1351841
+ALL GOOD, MARKING 1067 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1068
+tps/ACEH.csv >>
+1068,1,1351928
+ALL GOOD, MARKING 1068 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1069
+tps/ACEH.csv >>
+1069,1,1350761
+ALL GOOD, MARKING 1069 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1070
+tps/ACEH.csv >>
+1070,1,1352017
+ALL GOOD, MARKING 1070 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1071
+tps/ACEH.csv >>
+1071,1,1352187
+ALL GOOD, MARKING 1071 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1072
+tps/ACEH.csv >>
+1072,1,1349653
+ALL GOOD, MARKING 1072 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1073
+tps/ACEH.csv >>
+1073,1,1338717
+ALL GOOD, MARKING 1073 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1074
+tps/ACEH.csv >>
+1074,1,1338927
+ALL GOOD, MARKING 1074 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1075
+tps/ACEH.csv >>
+1075,1,1339549
+ALL GOOD, MARKING 1075 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1076
+tps/ACEH.csv >>
+1076,1,1339869
+ALL GOOD, MARKING 1076 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1077
+tps/ACEH.csv >>
+1077,1,1340827
+1077,2,1340828
+ALL GOOD, MARKING 1077 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1078
+tps/ACEH.csv >>
+1078,1,1349262
+ALL GOOD, MARKING 1078 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1079
+tps/ACEH.csv >>
+1079,1,1349510
+ALL GOOD, MARKING 1079 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1081
+tps/ACEH.csv >>
+1081,1,1391278
+1081,2,1391279
+1081,3,1391280
+ALL GOOD, MARKING 1081 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1082
+tps/ACEH.csv >>
+1082,1,1391336
+ALL GOOD, MARKING 1082 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1083
+tps/ACEH.csv >>
+1083,1,1391309
+ALL GOOD, MARKING 1083 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1084
+tps/ACEH.csv >>
+1084,1,1391208
+ALL GOOD, MARKING 1084 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1085
+tps/ACEH.csv >>
+1085,1,1391331
+ALL GOOD, MARKING 1085 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1086
+tps/ACEH.csv >>
+1086,1,1392856
+ALL GOOD, MARKING 1086 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1087
+tps/ACEH.csv >>
+1087,1,1391215
+ALL GOOD, MARKING 1087 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1088
+tps/ACEH.csv >>
+1088,1,1391232
+ALL GOOD, MARKING 1088 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1089
+tps/ACEH.csv >>
+1089,1,1391308
+ALL GOOD, MARKING 1089 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1090
+tps/ACEH.csv >>
+1090,1,1392994
+1090,2,1392995
+ALL GOOD, MARKING 1090 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1091
+tps/ACEH.csv >>
+1091,1,1393313
+ALL GOOD, MARKING 1091 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1092
+tps/ACEH.csv >>
+1092,1,1391257
+1092,3,1684842
+ALL GOOD, MARKING 1092 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1093
+tps/ACEH.csv >>
+1093,1,1393241
+ALL GOOD, MARKING 1093 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1094
+tps/ACEH.csv >>
+1094,1,1391248
+ALL GOOD, MARKING 1094 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1095
+tps/ACEH.csv >>
+1095,1,1391242
+ALL GOOD, MARKING 1095 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1096
+tps/ACEH.csv >>
+1096,1,1393265
+1096,2,1393266
+ALL GOOD, MARKING 1096 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1097
+tps/ACEH.csv >>
+1097,1,1392911
+ALL GOOD, MARKING 1097 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1099
+tps/ACEH.csv >>
+1099,1,1412703
+ALL GOOD, MARKING 1099 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1100
+tps/ACEH.csv >>
+1100,1,1412721
+ALL GOOD, MARKING 1100 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1101
+tps/ACEH.csv >>
+1101,1,1412719
+1101,2,1412720
+ALL GOOD, MARKING 1101 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1102
+tps/ACEH.csv >>
+1102,1,1412705
+ALL GOOD, MARKING 1102 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1103
+tps/ACEH.csv >>
+1103,1,1412701
+ALL GOOD, MARKING 1103 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1104
+tps/ACEH.csv >>
+1104,1,1412751
+ALL GOOD, MARKING 1104 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1105
+tps/ACEH.csv >>
+1105,1,1412734
+1105,2,1412735
+ALL GOOD, MARKING 1105 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1106
+tps/ACEH.csv >>
+1106,1,1412698
+1106,2,1412699
+ALL GOOD, MARKING 1106 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1107
+tps/ACEH.csv >>
+1107,1,1412731
+ALL GOOD, MARKING 1107 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1108
+tps/ACEH.csv >>
+1108,1,1412722
+1108,2,1412723
+ALL GOOD, MARKING 1108 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1109
+tps/ACEH.csv >>
+1109,1,1412726
+ALL GOOD, MARKING 1109 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1110
+tps/ACEH.csv >>
+1110,1,1412730
+ALL GOOD, MARKING 1110 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1111
+tps/ACEH.csv >>
+1111,1,1412702
+ALL GOOD, MARKING 1111 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1112
+tps/ACEH.csv >>
+1112,1,1412732
+ALL GOOD, MARKING 1112 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1113
+tps/ACEH.csv >>
+1113,1,1412697
+ALL GOOD, MARKING 1113 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1114
+tps/ACEH.csv >>
+1114,1,1412725
+ALL GOOD, MARKING 1114 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1115
+tps/ACEH.csv >>
+1115,1,1412727
+1115,2,1412728
+ALL GOOD, MARKING 1115 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1116
+tps/ACEH.csv >>
+1116,1,1412718
+ALL GOOD, MARKING 1116 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1117
+tps/ACEH.csv >>
+1117,1,1412696
+ALL GOOD, MARKING 1117 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1118
+tps/ACEH.csv >>
+1118,1,1412753
+ALL GOOD, MARKING 1118 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1120
+tps/ACEH.csv >>
+1120,1,1394459
+1120,2,1394460
+1120,3,1394461
+ALL GOOD, MARKING 1120 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1121
+tps/ACEH.csv >>
+1121,1,1395954
+ALL GOOD, MARKING 1121 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1122
+tps/ACEH.csv >>
+1122,1,1396004
+ALL GOOD, MARKING 1122 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1123
+tps/ACEH.csv >>
+1123,1,1396056
+1123,2,1396057
+ALL GOOD, MARKING 1123 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1124
+tps/ACEH.csv >>
+1124,1,1394295
+1124,2,1394296
+ALL GOOD, MARKING 1124 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1125
+tps/ACEH.csv >>
+1125,1,1394117
+1125,2,1394118
+ALL GOOD, MARKING 1125 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1126
+tps/ACEH.csv >>
+1126,1,1396009
+1126,2,1396010
+ALL GOOD, MARKING 1126 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1127
+tps/ACEH.csv >>
+1127,1,1394410
+1127,2,1394411
+ALL GOOD, MARKING 1127 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1128
+tps/ACEH.csv >>
+1128,1,1395941
+ALL GOOD, MARKING 1128 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1129
+tps/ACEH.csv >>
+1129,1,1395978
+1129,2,1395979
+ALL GOOD, MARKING 1129 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1130
+tps/ACEH.csv >>
+1130,1,1395914
+1130,2,1395915
+ALL GOOD, MARKING 1130 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1131
+tps/ACEH.csv >>
+1131,1,1395964
+ALL GOOD, MARKING 1131 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1132
+tps/ACEH.csv >>
+1132,1,1394438
+ALL GOOD, MARKING 1132 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1133
+tps/ACEH.csv >>
+1133,1,1394204
+1133,2,1394205
+ALL GOOD, MARKING 1133 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1134
+tps/ACEH.csv >>
+1134,1,1394379
+1134,2,1394380
+ALL GOOD, MARKING 1134 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1136
+tps/ACEH.csv >>
+1136,1,1410640
+ALL GOOD, MARKING 1136 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1137
+tps/ACEH.csv >>
+1137,1,1410714
+1137,2,1410715
+ALL GOOD, MARKING 1137 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1138
+tps/ACEH.csv >>
+1138,1,1410731
+1138,2,1410732
+1138,3,1410733
+1138,4,1410734
+ALL GOOD, MARKING 1138 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1139
+tps/ACEH.csv >>
+1139,1,1410685
+1139,2,1410686
+ALL GOOD, MARKING 1139 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1140
+tps/ACEH.csv >>
+1140,1,1410654
+1140,2,1410655
+ALL GOOD, MARKING 1140 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1141
+tps/ACEH.csv >>
+1141,1,1410598
+ALL GOOD, MARKING 1141 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1142
+tps/ACEH.csv >>
+1142,1,1410773
+ALL GOOD, MARKING 1142 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1143
+tps/ACEH.csv >>
+1143,1,1410713
+ALL GOOD, MARKING 1143 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1144
+tps/ACEH.csv >>
+1144,1,1410873
+1144,2,1410874
+ALL GOOD, MARKING 1144 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1145
+tps/ACEH.csv >>
+1145,1,1410790
+1145,2,1410791
+ALL GOOD, MARKING 1145 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1146
+tps/ACEH.csv >>
+1146,1,1410719
+ALL GOOD, MARKING 1146 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1147
+tps/ACEH.csv >>
+1147,1,1412538
+ALL GOOD, MARKING 1147 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1148
+tps/ACEH.csv >>
+1148,1,1410722
+ALL GOOD, MARKING 1148 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1150
+tps/ACEH.csv >>
+1150,1,1410751
+ALL GOOD, MARKING 1150 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1151
+tps/ACEH.csv >>
+1151,1,1396217
+ALL GOOD, MARKING 1151 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1152
+tps/ACEH.csv >>
+1152,1,1410721
+ALL GOOD, MARKING 1152 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1153
+tps/ACEH.csv >>
+1153,1,1410737
+1153,2,1410738
+ALL GOOD, MARKING 1153 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1154
+tps/ACEH.csv >>
+1154,1,1410717
+1154,2,1410718
+ALL GOOD, MARKING 1154 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1155
+tps/ACEH.csv >>
+1155,1,1410879
+ALL GOOD, MARKING 1155 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1156
+tps/ACEH.csv >>
+1156,1,1410855
+ALL GOOD, MARKING 1156 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1157
+tps/ACEH.csv >>
+1157,1,1410716
+ALL GOOD, MARKING 1157 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1159
+tps/ACEH.csv >>
+1159,1,1381725
+ALL GOOD, MARKING 1159 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1160
+tps/ACEH.csv >>
+1160,1,1380804
+ALL GOOD, MARKING 1160 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1161
+tps/ACEH.csv >>
+1161,1,1381732
+ALL GOOD, MARKING 1161 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1162
+tps/ACEH.csv >>
+1162,1,1380948
+ALL GOOD, MARKING 1162 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1163
+tps/ACEH.csv >>
+1163,1,1382351
+ALL GOOD, MARKING 1163 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1164
+tps/ACEH.csv >>
+1164,1,1379731
+ALL GOOD, MARKING 1164 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1165
+tps/ACEH.csv >>
+1165,1,1379771
+ALL GOOD, MARKING 1165 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1166
+tps/ACEH.csv >>
+1166,1,1381703
+ALL GOOD, MARKING 1166 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1167
+tps/ACEH.csv >>
+1167,1,1382314
+ALL GOOD, MARKING 1167 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1168
+tps/ACEH.csv >>
+1168,1,1382018
+1168,2,1382019
+ALL GOOD, MARKING 1168 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1169
+tps/ACEH.csv >>
+1169,1,1381031
+ALL GOOD, MARKING 1169 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1170
+tps/ACEH.csv >>
+1170,1,1381361
+ALL GOOD, MARKING 1170 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1171
+tps/ACEH.csv >>
+1171,1,1382329
+ALL GOOD, MARKING 1171 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1172
+tps/ACEH.csv >>
+1172,1,1382006
+ALL GOOD, MARKING 1172 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1173
+tps/ACEH.csv >>
+1173,1,1383629
+ALL GOOD, MARKING 1173 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1174
+tps/ACEH.csv >>
+1174,1,1381684
+ALL GOOD, MARKING 1174 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1176
+tps/ACEH.csv >>
+1176,1,1381004
+ALL GOOD, MARKING 1176 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1177
+tps/ACEH.csv >>
+1177,1,1379735
+ALL GOOD, MARKING 1177 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1178
+tps/ACEH.csv >>
+1178,1,1379722
+ALL GOOD, MARKING 1178 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1179
+tps/ACEH.csv >>
+1179,1,1381226
+ALL GOOD, MARKING 1179 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1180
+tps/ACEH.csv >>
+1180,1,1380612
+ALL GOOD, MARKING 1180 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1181
+tps/ACEH.csv >>
+1181,1,1380957
+ALL GOOD, MARKING 1181 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1182
+tps/ACEH.csv >>
+1182,1,1379700
+ALL GOOD, MARKING 1182 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1183
+tps/ACEH.csv >>
+1183,1,1379776
+ALL GOOD, MARKING 1183 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1184
+tps/ACEH.csv >>
+1184,1,1380865
+ALL GOOD, MARKING 1184 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1185
+tps/ACEH.csv >>
+1185,1,1381191
+ALL GOOD, MARKING 1185 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1186
+tps/ACEH.csv >>
+1186,1,1379691
+ALL GOOD, MARKING 1186 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1188
+tps/ACEH.csv >>
+1188,1,1393871
+ALL GOOD, MARKING 1188 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1189
+tps/ACEH.csv >>
+1189,1,1393971
+ALL GOOD, MARKING 1189 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1190
+tps/ACEH.csv >>
+1190,1,1394014
+ALL GOOD, MARKING 1190 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1191
+tps/ACEH.csv >>
+1191,1,1393933
+ALL GOOD, MARKING 1191 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1192
+tps/ACEH.csv >>
+1192,1,1394115
+ALL GOOD, MARKING 1192 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1193
+tps/ACEH.csv >>
+1193,1,1394022
+ALL GOOD, MARKING 1193 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1194
+tps/ACEH.csv >>
+1194,1,1394128
+ALL GOOD, MARKING 1194 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1195
+tps/ACEH.csv >>
+1195,1,1394015
+ALL GOOD, MARKING 1195 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1196
+tps/ACEH.csv >>
+1196,1,1394061
+ALL GOOD, MARKING 1196 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1197
+tps/ACEH.csv >>
+1197,1,1394091
+ALL GOOD, MARKING 1197 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1198
+tps/ACEH.csv >>
+1198,1,1393940
+ALL GOOD, MARKING 1198 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1199
+tps/ACEH.csv >>
+1199,1,1393970
+ALL GOOD, MARKING 1199 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1200
+tps/ACEH.csv >>
+1200,1,1394016
+ALL GOOD, MARKING 1200 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1202
+tps/ACEH.csv >>
+1202,1,1383783
+1202,2,1383784
+1202,3,1383785
+1202,4,1383786
+1202,5,1383787
+1202,6,1681497
+1202,7,1681498
+1202,8,1752211
+ALL GOOD, MARKING 1202 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1203
+tps/ACEH.csv >>
+1203,1,1391229
+1203,2,1391230
+1203,3,1391231
+1203,4,1674545
+1203,5,1674546
+ALL GOOD, MARKING 1203 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1204
+tps/ACEH.csv >>
+1204,1,1391285
+1204,2,1391286
+ALL GOOD, MARKING 1204 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1205
+tps/ACEH.csv >>
+1205,1,1391008
+1205,2,1391009
+1205,3,1391010
+ALL GOOD, MARKING 1205 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1206
+tps/ACEH.csv >>
+1206,1,1391314
+ALL GOOD, MARKING 1206 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1209
+tps/ACEH.csv >>
+1209,1,1677842
+ALL GOOD, MARKING 1209 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1210
+tps/ACEH.csv >>
+1210,1,1677849
+ALL GOOD, MARKING 1210 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1211
+tps/ACEH.csv >>
+1211,1,1677857
+ALL GOOD, MARKING 1211 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1212
+tps/ACEH.csv >>
+1212,1,1677877
+ALL GOOD, MARKING 1212 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1213
+tps/ACEH.csv >>
+1213,1,1677882
+ALL GOOD, MARKING 1213 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1214
+tps/ACEH.csv >>
+1214,1,1677890
+ALL GOOD, MARKING 1214 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1215
+tps/ACEH.csv >>
+1215,1,1677906
+1215,2,1677912
+ALL GOOD, MARKING 1215 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1216
+tps/ACEH.csv >>
+1216,1,1677914
+ALL GOOD, MARKING 1216 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1217
+tps/ACEH.csv >>
+1217,1,1677920
+ALL GOOD, MARKING 1217 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1218
+tps/ACEH.csv >>
+1218,1,1677922
+ALL GOOD, MARKING 1218 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1219
+tps/ACEH.csv >>
+1219,1,1677924
+ALL GOOD, MARKING 1219 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1220
+tps/ACEH.csv >>
+1220,1,1677925
+1220,2,1677926
+ALL GOOD, MARKING 1220 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1221
+tps/ACEH.csv >>
+1221,1,1677929
+ALL GOOD, MARKING 1221 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1222
+tps/ACEH.csv >>
+1222,1,1677935
+1222,2,1677938
+ALL GOOD, MARKING 1222 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1223
+tps/ACEH.csv >>
+1223,1,1677943
+ALL GOOD, MARKING 1223 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1224
+tps/ACEH.csv >>
+1224,1,1677952
+ALL GOOD, MARKING 1224 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1225
+tps/ACEH.csv >>
+1225,1,1677959
+ALL GOOD, MARKING 1225 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1226
+tps/ACEH.csv >>
+1226,1,1677961
+ALL GOOD, MARKING 1226 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1227
+tps/ACEH.csv >>
+1227,1,1677846
+ALL GOOD, MARKING 1227 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1228
+tps/ACEH.csv >>
+1228,1,1677852
+1228,2,1677854
+ALL GOOD, MARKING 1228 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1229
+tps/ACEH.csv >>
+1229,1,1677839
+ALL GOOD, MARKING 1229 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1230
+tps/ACEH.csv >>
+1230,1,1677917
+ALL GOOD, MARKING 1230 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1231
+tps/ACEH.csv >>
+1231,1,1677953
+ALL GOOD, MARKING 1231 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1232
+tps/ACEH.csv >>
+1232,1,1677864
+ALL GOOD, MARKING 1232 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1234
+tps/ACEH.csv >>
+1234,1,1678269
+1234,2,1678270
+ALL GOOD, MARKING 1234 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1235
+tps/ACEH.csv >>
+1235,1,1678271
+1235,2,1678272
+ALL GOOD, MARKING 1235 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1236
+tps/ACEH.csv >>
+1236,1,1678286
+1236,2,1712357
+ALL GOOD, MARKING 1236 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1237
+tps/ACEH.csv >>
+1237,1,1678438
+1237,2,1678440
+ALL GOOD, MARKING 1237 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1238
+tps/ACEH.csv >>
+1238,1,1678442
+1238,2,1721047
+ALL GOOD, MARKING 1238 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1239
+tps/ACEH.csv >>
+1239,1,1678459
+1239,2,1678460
+1239,3,1678461
+1239,4,1678463
+ALL GOOD, MARKING 1239 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1240
+tps/ACEH.csv >>
+1240,1,1678467
+1240,2,1678468
+ALL GOOD, MARKING 1240 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1241
+tps/ACEH.csv >>
+1241,1,1678474
+1241,2,1678476
+ALL GOOD, MARKING 1241 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1242
+tps/ACEH.csv >>
+1242,1,1715765
+1242,2,1716782
+ALL GOOD, MARKING 1242 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1243
+tps/ACEH.csv >>
+1243,1,1678493
+ALL GOOD, MARKING 1243 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1244
+tps/ACEH.csv >>
+1244,1,1678500
+1244,2,1678501
+ALL GOOD, MARKING 1244 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1245
+tps/ACEH.csv >>
+1245,1,1678502
+1245,2,1678503
+ALL GOOD, MARKING 1245 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1246
+tps/ACEH.csv >>
+1246,1,1678278
+1246,2,1678280
+ALL GOOD, MARKING 1246 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1247
+tps/ACEH.csv >>
+1247,1,1678281
+1247,2,1678282
+ALL GOOD, MARKING 1247 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1248
+tps/ACEH.csv >>
+1248,1,1678435
+ALL GOOD, MARKING 1248 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1249
+tps/ACEH.csv >>
+1249,1,1678447
+1249,2,1678449
+ALL GOOD, MARKING 1249 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1250
+tps/ACEH.csv >>
+1250,1,1678455
+1250,2,1678456
+ALL GOOD, MARKING 1250 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1251
+tps/ACEH.csv >>
+1251,1,1678457
+ALL GOOD, MARKING 1251 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1252
+tps/ACEH.csv >>
+1252,1,1678466
+ALL GOOD, MARKING 1252 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1253
+tps/ACEH.csv >>
+1253,1,1678471
+1253,2,1678472
+ALL GOOD, MARKING 1253 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1254
+
+Fatal error: Call to a member function xpath() on a non-object in /workspace/ceksuara/child.php on line 22
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1255
+tps/ACEH.csv >>
+1255,1,1678480
+1255,2,1678481
+ALL GOOD, MARKING 1255 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1256
+tps/ACEH.csv >>
+1256,1,1678483
+1256,2,1678484
+ALL GOOD, MARKING 1256 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1257
+tps/ACEH.csv >>
+1257,1,1678486
+ALL GOOD, MARKING 1257 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1258
+tps/ACEH.csv >>
+1258,1,1678488
+1258,2,1678490
+ALL GOOD, MARKING 1258 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1259
+tps/ACEH.csv >>
+1259,1,1678284
+ALL GOOD, MARKING 1259 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1260
+tps/ACEH.csv >>
+1260,1,1678450
+ALL GOOD, MARKING 1260 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1261
+tps/ACEH.csv >>
+1261,1,1678451
+1261,2,1678452
+ALL GOOD, MARKING 1261 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1262
+tps/ACEH.csv >>
+1262,1,1678498
+ALL GOOD, MARKING 1262 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1264
+tps/ACEH.csv >>
+1264,1,1678273
+ALL GOOD, MARKING 1264 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1265
+tps/ACEH.csv >>
+1265,1,1678277
+ALL GOOD, MARKING 1265 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1266
+tps/ACEH.csv >>
+1266,1,1678274
+1266,2,1678275
+ALL GOOD, MARKING 1266 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1268
+tps/ACEH.csv >>
+1268,1,1677426
+1268,2,1677427
+1268,3,1677429
+1268,4,1677430
+1268,5,1677433
+1268,6,1677440
+1268,7,1677453
+ALL GOOD, MARKING 1268 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1269
+tps/ACEH.csv >>
+1269,1,1677403
+1269,2,1677407
+1269,3,1677409
+ALL GOOD, MARKING 1269 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1270
+tps/ACEH.csv >>
+1270,1,1677810
+1270,2,1677812
+1270,3,1677813
+ALL GOOD, MARKING 1270 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1271
+tps/ACEH.csv >>
+1271,1,1677558
+ALL GOOD, MARKING 1271 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1272
+tps/ACEH.csv >>
+1272,1,1677869
+ALL GOOD, MARKING 1272 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1273
+tps/ACEH.csv >>
+1273,1,1677783
+ALL GOOD, MARKING 1273 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1274
+tps/ACEH.csv >>
+1274,1,1677417
+1274,2,1677419
+ALL GOOD, MARKING 1274 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1275
+tps/ACEH.csv >>
+1275,1,1677670
+1275,2,1677672
+1275,3,1677673
+1275,4,1677674
+1275,5,1677680
+1275,6,1677682
+1275,7,1677685
+1275,8,1677688
+1275,9,1677691
+1275,10,1677705
+1275,11,1677708
+1275,12,1677711
+1275,13,1677714
+ALL GOOD, MARKING 1275 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1276
+tps/ACEH.csv >>
+1276,1,1677861
+1276,2,1677863
+1276,3,1677865
+ALL GOOD, MARKING 1276 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1277
+tps/ACEH.csv >>
+1277,1,1677457
+1277,2,1677460
+1277,3,1677463
+1277,4,1677465
+1277,5,1677469
+1277,6,1677473
+1277,7,1677478
+1277,8,1677482
+ALL GOOD, MARKING 1277 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1278
+tps/ACEH.csv >>
+1278,1,1677875
+ALL GOOD, MARKING 1278 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1279
+tps/ACEH.csv >>
+1279,1,1677850
+1279,2,1677851
+1279,3,1677853
+1279,4,1677856
+ALL GOOD, MARKING 1279 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1280
+tps/ACEH.csv >>
+1280,1,1677397
+ALL GOOD, MARKING 1280 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1281
+tps/ACEH.csv >>
+1281,1,1677742
+1281,2,1677769
+1281,3,1677773
+1281,4,1677775
+ALL GOOD, MARKING 1281 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1282
+tps/ACEH.csv >>
+1282,1,1677388
+ALL GOOD, MARKING 1282 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1283
+tps/ACEH.csv >>
+1283,1,1677391
+ALL GOOD, MARKING 1283 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1284
+tps/ACEH.csv >>
+1284,1,1711003
+ALL GOOD, MARKING 1284 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1285
+tps/ACEH.csv >>
+1285,1,1677564
+1285,2,1723858
+ALL GOOD, MARKING 1285 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1286
+tps/ACEH.csv >>
+1286,1,1677573
+ALL GOOD, MARKING 1286 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1287
+tps/ACEH.csv >>
+1287,1,1677664
+1287,2,1723883
+ALL GOOD, MARKING 1287 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1288
+tps/ACEH.csv >>
+1288,1,1677788
+1288,2,1677805
+ALL GOOD, MARKING 1288 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1289
+tps/ACEH.csv >>
+1289,1,1677808
+ALL GOOD, MARKING 1289 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1290
+tps/ACEH.csv >>
+1290,1,1677824
+1290,2,1677828
+1290,3,1723860
+ALL GOOD, MARKING 1290 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1291
+tps/ACEH.csv >>
+1291,1,1677838
+1291,2,1677841
+ALL GOOD, MARKING 1291 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1292
+tps/ACEH.csv >>
+1292,1,1677845
+ALL GOOD, MARKING 1292 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1293
+tps/ACEH.csv >>
+1293,1,1677871
+ALL GOOD, MARKING 1293 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1294
+tps/ACEH.csv >>
+1294,1,1677551
+ALL GOOD, MARKING 1294 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1297
+tps/ACEH.csv >>
+1297,1,1677930
+ALL GOOD, MARKING 1297 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1298
+tps/ACEH.csv >>
+1298,1,1677934
+1298,2,1677936
+ALL GOOD, MARKING 1298 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1299
+tps/ACEH.csv >>
+1299,1,1677921
+1299,2,1677923
+ALL GOOD, MARKING 1299 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1301
+tps/ACEH.csv >>
+1301,1,1677927
+ALL GOOD, MARKING 1301 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1302
+tps/ACEH.csv >>
+1302,1,1677995
+1302,2,1677998
+ALL GOOD, MARKING 1302 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1303
+tps/ACEH.csv >>
+1303,1,1696156
+ALL GOOD, MARKING 1303 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1304
+tps/ACEH.csv >>
+1304,1,1677954
+ALL GOOD, MARKING 1304 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1305
+tps/ACEH.csv >>
+1305,1,1678001
+ALL GOOD, MARKING 1305 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1306
+tps/ACEH.csv >>
+1306,1,1677989
+1306,2,1677993
+ALL GOOD, MARKING 1306 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1308
+tps/ACEH.csv >>
+1308,1,1678243
+1308,2,1678245
+ALL GOOD, MARKING 1308 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1309
+tps/ACEH.csv >>
+1309,1,1678259
+1309,2,1678260
+ALL GOOD, MARKING 1309 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1310
+tps/ACEH.csv >>
+1310,1,1678252
+ALL GOOD, MARKING 1310 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1311
+tps/ACEH.csv >>
+1311,1,1678222
+ALL GOOD, MARKING 1311 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1312
+tps/ACEH.csv >>
+1312,1,1678255
+ALL GOOD, MARKING 1312 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1313
+tps/ACEH.csv >>
+1313,1,1678267
+ALL GOOD, MARKING 1313 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1314
+tps/ACEH.csv >>
+1314,1,1678223
+ALL GOOD, MARKING 1314 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1315
+tps/ACEH.csv >>
+1315,1,1678239
+ALL GOOD, MARKING 1315 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1316
+tps/ACEH.csv >>
+1316,1,1678225
+1316,2,1678226
+ALL GOOD, MARKING 1316 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1317
+tps/ACEH.csv >>
+1317,1,1678236
+ALL GOOD, MARKING 1317 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1318
+tps/ACEH.csv >>
+1318,1,1678248
+ALL GOOD, MARKING 1318 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1319
+tps/ACEH.csv >>
+1319,1,1678266
+ALL GOOD, MARKING 1319 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1321
+tps/ACEH.csv >>
+1321,1,1678227
+1321,2,1678228
+ALL GOOD, MARKING 1321 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1323
+tps/ACEH.csv >>
+1323,1,1677366
+ALL GOOD, MARKING 1323 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1324
+tps/ACEH.csv >>
+1324,1,1677376
+ALL GOOD, MARKING 1324 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1325
+tps/ACEH.csv >>
+1325,1,1677371
+1325,2,1716725
+ALL GOOD, MARKING 1325 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1326
+tps/ACEH.csv >>
+1326,1,1677340
+ALL GOOD, MARKING 1326 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1327
+tps/ACEH.csv >>
+1327,1,1677344
+ALL GOOD, MARKING 1327 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1328
+tps/ACEH.csv >>
+1328,1,1677386
+ALL GOOD, MARKING 1328 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1329
+tps/ACEH.csv >>
+1329,1,1677314
+ALL GOOD, MARKING 1329 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1330
+tps/ACEH.csv >>
+1330,1,1677255
+1330,2,1677283
+ALL GOOD, MARKING 1330 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1331
+tps/ACEH.csv >>
+1331,1,1677345
+ALL GOOD, MARKING 1331 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1333
+tps/ACEH.csv >>
+1333,1,1677975
+1333,2,1677978
+ALL GOOD, MARKING 1333 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1334
+tps/ACEH.csv >>
+1334,1,1677987
+ALL GOOD, MARKING 1334 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1335
+tps/ACEH.csv >>
+1335,1,1677992
+1335,2,1677994
+1335,3,1731968
+ALL GOOD, MARKING 1335 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1336
+tps/ACEH.csv >>
+1336,1,1678002
+1336,2,1678005
+ALL GOOD, MARKING 1336 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1337
+tps/ACEH.csv >>
+1337,1,1678046
+1337,2,1678047
+ALL GOOD, MARKING 1337 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1338
+tps/ACEH.csv >>
+1338,1,1678048
+ALL GOOD, MARKING 1338 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1339
+tps/ACEH.csv >>
+1339,1,1678052
+1339,2,1678053
+ALL GOOD, MARKING 1339 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1340
+tps/ACEH.csv >>
+1340,1,1678054
+1340,2,1678055
+ALL GOOD, MARKING 1340 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1341
+tps/ACEH.csv >>
+1341,1,1678102
+ALL GOOD, MARKING 1341 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1342
+tps/ACEH.csv >>
+1342,1,1678147
+ALL GOOD, MARKING 1342 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1343
+tps/ACEH.csv >>
+1343,1,1678148
+ALL GOOD, MARKING 1343 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1344
+tps/ACEH.csv >>
+1344,1,1678150
+ALL GOOD, MARKING 1344 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1345
+tps/ACEH.csv >>
+1345,1,1678196
+ALL GOOD, MARKING 1345 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1346
+tps/ACEH.csv >>
+1346,1,1678198
+1346,2,1678199
+1346,3,1678201
+ALL GOOD, MARKING 1346 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1347
+tps/ACEH.csv >>
+1347,1,1678203
+1347,2,1678204
+ALL GOOD, MARKING 1347 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1348
+tps/ACEH.csv >>
+1348,1,1678207
+ALL GOOD, MARKING 1348 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1349
+tps/ACEH.csv >>
+1349,1,1678209
+1349,2,1678210
+ALL GOOD, MARKING 1349 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1350
+tps/ACEH.csv >>
+1350,1,1678211
+ALL GOOD, MARKING 1350 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1351
+tps/ACEH.csv >>
+1351,1,1678212
+ALL GOOD, MARKING 1351 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1352
+tps/ACEH.csv >>
+1352,1,1678215
+1352,2,1678216
+1352,3,1678217
+ALL GOOD, MARKING 1352 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1353
+tps/ACEH.csv >>
+1353,1,1678219
+1353,2,1678220
+ALL GOOD, MARKING 1353 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1354
+tps/ACEH.csv >>
+1354,1,1678218
+ALL GOOD, MARKING 1354 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1355
+tps/ACEH.csv >>
+1355,1,1677990
+ALL GOOD, MARKING 1355 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1356
+tps/ACEH.csv >>
+1356,1,1678012
+ALL GOOD, MARKING 1356 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1357
+tps/ACEH.csv >>
+1357,1,1678034
+ALL GOOD, MARKING 1357 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1358
+tps/ACEH.csv >>
+1358,1,1678045
+ALL GOOD, MARKING 1358 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1359
+tps/ACEH.csv >>
+1359,1,1678103
+ALL GOOD, MARKING 1359 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1360
+tps/ACEH.csv >>
+1360,1,1678133
+ALL GOOD, MARKING 1360 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1361
+tps/ACEH.csv >>
+1361,1,1678130
+1361,2,1678131
+ALL GOOD, MARKING 1361 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1363
+tps/ACEH.csv >>
+1363,1,1678015
+ALL GOOD, MARKING 1363 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1364
+tps/ACEH.csv >>
+1364,1,1678021
+ALL GOOD, MARKING 1364 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1365
+tps/ACEH.csv >>
+1365,1,1678044
+ALL GOOD, MARKING 1365 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1366
+tps/ACEH.csv >>
+1366,1,1678504
+ALL GOOD, MARKING 1366 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1367
+tps/ACEH.csv >>
+1367,1,1678515
+1367,2,1716711
+ALL GOOD, MARKING 1367 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1368
+tps/ACEH.csv >>
+1368,1,1678598
+ALL GOOD, MARKING 1368 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1369
+tps/ACEH.csv >>
+1369,1,1678614
+ALL GOOD, MARKING 1369 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1370
+tps/ACEH.csv >>
+1370,1,1679164
+ALL GOOD, MARKING 1370 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1371
+tps/ACEH.csv >>
+1371,1,1679165
+ALL GOOD, MARKING 1371 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1372
+tps/ACEH.csv >>
+1372,1,1679284
+ALL GOOD, MARKING 1372 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1373
+tps/ACEH.csv >>
+1373,1,1679534
+1373,2,1715937
+ALL GOOD, MARKING 1373 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1374
+tps/ACEH.csv >>
+1374,1,1679543
+1374,2,1679545
+ALL GOOD, MARKING 1374 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1375
+tps/ACEH.csv >>
+1375,1,1679552
+ALL GOOD, MARKING 1375 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1376
+tps/ACEH.csv >>
+1376,1,1679555
+ALL GOOD, MARKING 1376 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1377
+tps/ACEH.csv >>
+1377,1,1679557
+ALL GOOD, MARKING 1377 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1378
+tps/ACEH.csv >>
+1378,1,1679560
+ALL GOOD, MARKING 1378 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1379
+tps/ACEH.csv >>
+1379,1,1679562
+ALL GOOD, MARKING 1379 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1380
+tps/ACEH.csv >>
+1380,1,1679572
+ALL GOOD, MARKING 1380 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1381
+tps/ACEH.csv >>
+1381,1,1679578
+ALL GOOD, MARKING 1381 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1382
+tps/ACEH.csv >>
+1382,1,1679567
+ALL GOOD, MARKING 1382 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1383
+tps/ACEH.csv >>
+1383,1,1678595
+ALL GOOD, MARKING 1383 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1384
+tps/ACEH.csv >>
+1384,1,1678610
+ALL GOOD, MARKING 1384 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1385
+tps/ACEH.csv >>
+1385,1,1679559
+ALL GOOD, MARKING 1385 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1387
+tps/ACEH.csv >>
+1387,1,1679650
+ALL GOOD, MARKING 1387 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1388
+tps/ACEH.csv >>
+1388,1,1679616
+1388,2,1679618
+ALL GOOD, MARKING 1388 AS COMPLETE
+GRABBING FROM http://pilpres2014.kpu.go.id/c1.php?cmd=select&parent=1390
+tps/ACEH.csv >>
+1390,1,1679656
+1390,2,1679657
+ALL GOOD, MARKING 1390 AS COMPLETE

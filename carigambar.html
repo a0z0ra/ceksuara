@@ -1,0 +1,36 @@
+<html>
+	<head>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+		<style>
+			img {max-width:600px;}
+		</style>
+	</head>
+	<body>
+		<h1>Lihat gambar dari KPU</h1>
+		<span>Input nama kelurahan/desa:</span>
+		<input type="text" value="CEGER"/>
+		<br/>
+		<span>Input TPS no:</span>
+		<input type="text" value="05"/>
+		<button type="submit">Lihat Gambar</button>
+		<br/><br/>
+		<div>Kelurahan ID: 26140</div>
+		<div>TPS ID: TBA</div>
+		<div>Nama lengkap: Nasional » DKI JAKARTA » JAKARTA TIMUR » CIPAYUNG » CEGER</div>
+		<div class="kpu_img">
+			<img src="http://scanc1.kpu.go.id/viewp.php?f=002614000504.jpg" />
+		</div>
+
+		<script>
+			$(function() {
+				var kpu_img_url = "http://scanc1.kpu.go.id/viewp.php?f=";
+				$("button").on( "click", function(){
+					var kelurahan_id = "0026140";
+					var tps_no = "005";
+					var img_url = kpu_img_url + kelurahan_id + tps_no + "04.jpg";
+					$("img").attr("src", img_url);
+				});
+			});
+		</script>
+	</body>
+</html>
